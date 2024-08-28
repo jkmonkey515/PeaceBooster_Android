@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">648181259163-mhekg84a79mbs3rfm6f5j1kvfvsucnu6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">648181259163</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8XmJpCcWN_Pq9QV3qnMjaODaoYB23q6w</string>
+    <string name="google_app_id" translatable="false">1:648181259163:android:2f2fe9609a4137846b5f3e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8XmJpCcWN_Pq9QV3qnMjaODaoYB23q6w</string>
+    <string name="google_storage_bucket" translatable="false">peace-booster.appspot.com</string>
+    <string name="project_id" translatable="false">peace-booster</string>
+</resources>

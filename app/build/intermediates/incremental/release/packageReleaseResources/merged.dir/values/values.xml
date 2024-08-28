@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="step1_first_questions">
+        
+        <item>Do you experience (--)\’s existence and yours as two different existences?</item>
+        
+        <item>Are you suggesting that you perceive and experience (--) to have the same existence as yours?</item>
+        
+        <item>Are you absolutely certain you and (--) share the same existence?</item></string-array>
+    <string-array name="step1_options">
+        <item>1. Is (--) one entity?</item>
+        <item>2. Is (--) able to self-produce?</item>
+        <item>3. Do you need your mind\'s labels to exist as different entities?</item>
+    </string-array>
+    <string-array name="step1_third_questions">
+        
+        <item>Can you see that (--) is not one entity, but made of parts?</item>
+        
+        <item>Do you see the red squares indicating the parts?</item>
+        
+        <item>The analysis found that (--) is not a singular entity but made of parts that you seem unable to see. Can you at least see that (--) is made up of a right and left side? </item>
+        
+        <item>The analysis found that (--) is not a singular entity but made of parts and halves. What is made of parts and halves is not singular and thus cannot be treated as a singular entity. (--) is not one entity.</item>
+        
+        <item>If (--) is not a singular entity, is it logical to treat (--) as a singular entity?</item>
+        
+        <item>The fact that (--) is not a singular entity but made of many parts and halves cannot co-exist with your belief that (--) is a singular entity. Do you agree that a singular entity should be singular?</item>
+    </string-array>
+    <string-array name="step2_questions">
+        
+        <item>Did (--) generate her/his being?</item>
+        
+        <item>Did (--) self-produce without any parents?</item>
+        
+        <item>Did (--) self-generate without any artificial laboratory procedure, or other processes?</item>
+        
+        <item> This is incorrect. (--) did not self-generate because (--) lacks an individual nature of any kind that could do that.
+            All living beings exist without any personal nature, thus no one can self-generate; instead, everyone is a manifestation of the same universal nature.
+
+\n Thus, (--) is not different from you or anybody, and vice versa, as everyone is a product of the same universal nature and not their own.</item>
+    </string-array>
+    <string-array name="step3_questions">
+        
+        <item>Can this person exist as (--) without your mind\’s label of \“(--)\”? </item>
+        
+        <item>Do Humans invent and give labels to everything?</item>
+        
+        <item>If your mind did not name your body and mind as \“(==)\”, would people call you (==)? </item>
+        
+        <item>If you did not name this person \"(--)\", would they exist to you as (--)?</item>
+        
+        <item>If this person was already (--), would it make sense to label what is already (--) as \"(--)\" again?</item>
+        
+        <item>This person has been existing without any label until the label \"(--)\" was created and projected by your mind for convenience\'s sake.
+            This way, everybody can function in concepts as \"(--)\" and \“you\” .</item>
+        <item>Incorrect. Please consider reviewing</item>
+    </string-array>
+    <string-array name="summary_finals">
+        
+        <item>
+            Correct and Congratulations!
+ \n\n By navigating the fundamental aspects of existence, you’ve grasped that (--) and you share the same origin and essence, devoid of any individual nature.
+            \n Any distinctions between you two are relative and exist in mere labels only.
+            \n Understanding the sameness we all share eliminates the basis for conflicts and unhappiness.
+            \n Recognizing this reality is pivotal, as any conflict between you two or anyone else is fundamentally a conflict against oneself.
+            \n
+            A true peace and happiness await those who comprehend and practice this profound understanding.</item>
+        
+        <item>
+           Now, empowered with the understanding and evidence that human senses have deceived humanity for centuries, you recognize the contradiction in the prevailing viewpoint that everyone possesses their own existence.
+             \n This ignorance fuels conflicts, unhappiness, and suffering.
+             \n Embracing this correct knowledge paves the simplest path to inexhaustible wisdom, peace, and happiness for you and the world.
+ \n
+             \n If you believe this app has the potential to break the endless cycle of self-made conflict, please help us spread the word.
+ \n\n
+            Thank you!
+            Congratulations! You have completed all 3 Steps and Conclusions!
+        </item>
+    </string-array>
+    <string-array name="summary_questions">
+        <item> 99 percent of humans are not aware that all people exist without individual existence.
+            \n Then our minds invent labels such as \"(--)\", \"(==)\", \"you\", \"I\", \"they\", \”American\”, \”European\”, \”Asian\”, \”African\”, or \”Whatever\”.
+\n The mind projects them onto people and wrongly believes them as facts about everyone.
+            \n Our belief in various labels changes the truth about people and causes them to appear to have a different existence from ours, even though everyone lacks individual existence.
+
+\n\n
+            All differences between people are relative and exist in concepts only as you discovered in Step #3.
+        </item>
+        
+        <item>
+(--) and you exist without independent existence as neither one of you is a singular entity, and neither possesses an individual nature capable of self-production;
+            instead, you both share the common origin and essence of the same universal nature, comprising both physical and non-physical elements, rather than originating autonomously.
+            \n\n
+            Considering this, does it make logical sense to treat (--) and you as two distinct existences?
+
+        </item>
+        
+        <item>
+            Singular entities capable of self-production, a characteristic needed for possessing one’s own existence, do not exist, as you learned from completing Step #1 and Step #2.
+            \n\n
+            Recognizing that (--) and you lack individual existence, it becomes illogical to perceive and treat you and (--) as two distinct entities.
+        </item>
+        
+        <item>
+            Correct. You and (--) lack individual existence as you’re not singular entities with the capacity for self-production.  Instead, both of you are compositions of the same universal nature, comprising of countless physical and non-physical elements, rather than originating autonomously.
+Your origin and essence are identical, and any perceived distinctions do not belong to any individual; they are relative and arise from your mind\'s conceptualizations. Recognizing this, any action against (--) is essentially an action against yourself, and vice versa.
+            \n\n
+    Do you now recognize that any conflict between you two, or anyone else, is essentially a conflict against oneself?
+        </item>
+        
+        <item>
+           Take a moment to reflect profoundly on each question. Envision the presented information without the influence of preconceived notions to grasp life’s facts and the truth of this conclusion.
+        </item>
+    </string-array>
+    <string-array name="summary_texts">
+        
+        <item>In the beginning, you said that you perceive and experience (--)\’s existence and yours as two different existences.</item>
+        
+        <item> To claim a true individual existence (--) and you need to be two different existences where each of you is:
+            \n\n
+            \n1. One entity.
+            \n2. Able to self-generate.
+            \n3. Existing as (--) and you without your mind\'s labels.
+            \n\n
+        However, you successfully completed all 3 Steps and found the opposite to be true about (--) and you.
+        </item>
+        
+        <item>You discovered that (--) and you are:
+            \n1. Not one entity.
+            \n2. Not able to generate yourselves.
+            \n3. In need of your mind\’s labels of “\(--)\” and \“you\” to exist as (--) and you.
+            \n
+             \n\n  This proves that (--) and you are not two different existences, and your senses are not showing this fact correctly.
+        </item>
+        
+        <item> Conclusion: it appears to your mind that (--) and you possess different existences, but when examined, (--) and you do not.
+            \n This proves that your senses are lying to you because (--) and you appear to possess individual existence, but that is not true.</item>
+        
+        <item> Both you and (--), along with everything else in the world, lack individual existence.
+    \n Consequently, considering (--) and you as two distinct entities is illogical, as neither one of you is one entity and both of you lack individual nature that could independently bring about your existence.
+    \n You both share the identical origin and essence of countless universal elements, encompassing both physical and nonphysical aspects.
+    \n Any perceived distinctions are without different natures and thus are only relative, existing solely in conceptual labels such as \"(--)\", \"(==)\", \"you\", \"tall\", \"short\", etc. created by the mind, while our essence remains universally shared.</item>
+        
+        <item> Every living being manifests from the same universal nature, comprising both physical and non-physical elements, rather than originating autonomously.
+\n Recognizing the identical universal essence and origin shared by everyone challenges the notion of multiple existences, revealing all-encompassing identical Universal existence.
+\n
+This insight dispels the misconception of different existences that we erroneously perceive and believe in.</item>
+        
+        <item>Since you and (--) share the same existence, why do humans believe in many different existences and experience them as real?</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="black_transparent">#90000000</color>
+    <color name="button_no">#60b600</color>
+    <color name="button_no_focused">#6fd200</color>
+    <color name="button_no_pressed">#509700</color>
+    <color name="button_no_trans70">#7060b600</color>
+    <color name="button_yes">#ff5252</color>
+    <color name="button_yes_focused">#fd6565</color>
+    <color name="button_yes_pressed">#fb2f2f</color>
+    <color name="colorAccent">#60b600</color>
+    <color name="colorPrimary">#60b600</color>
+    <color name="colorPrimaryDark">#471321</color>
+    <color name="light_gray">#F3F4F2</color>
+    <color name="mainColor">#471321</color>
+    <color name="textcolor">#D11903</color>
+    <color name="trans_60_yellow">#60615401</color>
+    <color name="white">#ffffff</color>
+    <color name="white_trans">#90ffffff</color>
+    <string name="add_photo" translatable="false">Add Photo to Start:</string>
+    <string name="answerNo" translatable="false">No</string>
+    <string name="answerYes" translatable="false">Yes</string>
+    <string name="app_name" translatable="false">Peace Booster</string>
+    <string name="arabic" translatable="false">عربى</string>
+    <string name="ask_for_clarification">Ask for Clarification</string>
+    <string name="buton_save" translatable="false">Save</string>
+    <string name="button_agree" translatable="false">Agree</string>
+    <string name="button_another_picture" translatable="false">Take Another Picture</string>
+    <string name="button_disagree" translatable="false">Disagree</string>
+    <string name="button_donate" translatable="false">DONATE</string>
+    <string name="button_next" translatable="false">Next</string>
+    <string name="button_ok" translatable="false">Ok</string>
+    <string name="button_start_over" translatable="false">Start Over</string>
+    <string name="button_start_over_or" translatable="false">or Start Over</string>
+    <string name="button_text" translatable="false">Text</string>
+    <string name="button_tweet" translatable="false">Tweet</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="chinese">汉语</string>
+    <string name="click_photo" translatable="false">Click on the photo to confirm if (--) is one entity.</string>
+    <string name="close">close</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="complete_step1" translatable="false">Correct! In Step 1 you’ve recognized that (--) is not one entity but a composite of various parts and halves.
+       \n  By acknowledging this, you’ve taken the first step towards understanding the true nature of existence.
+    \n    Remember, (--) is not one entity, and this realization sets the foundation for the next steps in discovering the profound sameness and interconnectedness we all share.
+        \n\n
+        Congratulations. You have completed Step #1.</string>
+    <string name="complete_step2" translatable="false">  Congratulations! Step 2 has revealed that (--) did not self-produce because (--) lacks individual nature of any kind that could; instead (--) is a manifestation of the universal nature and its countless and ever-changing physical and non-physical elements.
+\n Thus, (--) is not different from you or anybody, and vice versa, as everyone is a product of the same universal nature and not their own.
+\n This understanding challenges the notion of individual existence and highlights the universal origin and essence we all share.
+\n By grasping this fact, you’ve paved the way for deeper insights into the nature of existence most people remain unaware of.
+
+        \n\n Congratulations. You have completed Step #2!</string>
+    <string name="complete_step3" translatable="false"> Correct. In Step 3, you explored the facts of your mind\'s labeling and discovered that the person in the photo cannot exist as (--) without your mind\’s label of \"(--)\".
+        \n This realization extends to your own existence, emphasizing the role of mental labels in shaping perceptions and experiences.
+        \n Please remember, that the label \"(--)\" is merely a construct of your mind. All labels originate from your mind rather than from the side of any physical forms you are experiencing.
+        \n Recognizing this challenges the notion of separate existences, as human distinctions exist only in labels.
+        \n Reflect on how your experience may contradict this fundamental truth.
+       \n\n Congratulations. You have completed Step #3.</string>
+    <string name="correct_answer_">CorrectAnswer: %s</string>
+    <string name="current_language" translatable="false">English</string>
+    <string name="default_web_client_id" translatable="false">648181259163-mhekg84a79mbs3rfm6f5j1kvfvsucnu6.apps.googleusercontent.com</string>
+    <string name="english" translatable="false">English</string>
+    <string name="enter_photo_name" translatable="false">Name this Person.</string>
+    <string name="enter_username" translatable="false">Enter your name.</string>
+    <string name="exit" translatable="false">Exit</string>
+    <string name="finish">Finish</string>
+    <string name="from_gallery" translatable="false">From Your Gallery.</string>
+    <string name="gcm_defaultSenderId" translatable="false">648181259163</string>
+    <string name="go_to_conclusion" translatable="false">Go to Conclusion</string>
+    <string name="go_to_point2" translatable="false">Go to Step #2</string>
+    <string name="go_to_point3" translatable="false">Go to Step #3</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8XmJpCcWN_Pq9QV3qnMjaODaoYB23q6w</string>
+    <string name="google_app_id" translatable="false">1:648181259163:android:2f2fe9609a4137846b5f3e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8XmJpCcWN_Pq9QV3qnMjaODaoYB23q6w</string>
+    <string name="google_storage_bucket" translatable="false">peace-booster.appspot.com</string>
+    <string name="hebrew" translatable="false">עִברִית</string>
+    <string name="however" translatable="false">However,</string>
+    <string name="link_step1" translatable="false"><b><u>Step #1</u></b></string>
+    <string name="link_step1_or" translatable="false"><b><u>or Step #1</u></b></string>
+    <string name="link_step2" translatable="false"><b><u>Step #2</u></b></string>
+    <string name="link_step2_or" translatable="false"><b><u>or Step #2</u></b></string>
+    <string name="link_step3" translatable="false"><b><u>Step #3</u></b></string>
+    <string name="link_step3_again" translatable="false"><b><u> Step #3 again</u></b></string>
+    <string name="narrative" translatable="false">
+        WELCOME TO PEACE BOOSTER.
+        \n\n
+        Embark on a journey to discover the key to a life of effortless peace, fulfillment, and joy.
+         \n
+        Uncover the truth beyond your mind\’s deceptions, a truth that has the power to end injustice, war, and suffering worldwide.
+         \n
+        Unveil the true nature of the world and understand the role of your mind in shaping it.
+    </string>
+    <string name="note" translatable="false">NOTE</string>
+    <string name="official_content">
+The Foundation of this App.
+\n\n
+At first glance, the world appears teeming with diversity. However, undeniable facts about everybody challenge and contradict our everyday perception and experience of each other as different and separate.
+\n
+Each of us experiences ourselves as different and separate from everybody else, but is this a fact or an illusion?
+Find out for yourself:
+\n\n
+To truly exist independently, a person must meet three criteria:
+\n
+1. Unity: The person must be a single, indivisible entity. If they are not one thing, they cannot be considered one person.
+\n
+2. Independence: The person must have an independent nature that brings about their own existence. If their existence depends on everything else, then they lack a unique essence that makes them different from others.
+\n
+3. Concept-Free Existence: The person must exist without relying on our mind\’s label of "a person." If they exist only as a concept, it means they are a person only in the ideas our mind creates, projects, and believes in.
+\n\n
+We invite you to use our app to explore how everyone truly exists and discover these insights for yourself. Have fun!
+
+    </string>
+    <string name="official_rules"><u>The Foundation of this App.</u></string>
+    <string name="official_title">The Foundation of this App.</string>
+    <string name="open">open</string>
+    <string name="option_explain" translatable="false">Examine each of the three points below to discover if (--) and you are two different existences.</string>
+    <string name="p4_disagree" translatable="false">Incorrect: Please consider reviewing Step #2, or Start Over.</string>
+    <string name="p9_second_sentence" translatable="false">These are the incorruptible facts of how everyone exists with no exceptions. Do you see and understand this?</string>
+    <string name="permission_denied" translatable="false">Permission Granted</string>
+    <string name="photo_name" translatable="false">Name this Person</string>
+    <string name="please_donate" translatable="false">Please donate to improve and keep this app free to all.</string>
+    <string name="project_id" translatable="false">peace-booster</string>
+    <string name="q3_dialog_alert" translatable="false"> Your senses are functioning correctly, indicating a deep understanding and uncorrupted senses.
+Consider that all beings, including (--), are manifestations of the same universal physical and non-physical elements, without individual ability to generate themselves; thus, everyone is identical and shares a common origin.
+        There are no differences between people, except for relative ones, like "\you\", \"me\", "\short\" or \"tall\" which arise through concepts invented and projected by our minds.
+        This realization is the path to true peace and happiness.
+        Since you and (--) are without individual existence, any action against (--) is an action against yourself and vice versa.
+        You may not need this app but feel free to use for further understanding.
+ </string>
+    <string name="question_skipped">Question was skipped</string>
+    <string name="read_articles">Read Articles</string>
+    <string name="retake" translatable="false">Retake Photo</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="share_app">Share App</string>
+    <string name="share_congressman" translatable="false">Share it with your Congressman:</string>
+    <string name="share_senators" translatable="false">Share it with your Senators:</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="step1_incorrect_alert" translatable="false">Really? In that case, something is not displaying correctly on your phone, but please keep going.</string>
+    <string name="step1_incorrect_alert2" translatable="false">  We understand this is challenging. Please acknowledge what you see, not what you believe about people. An honest observation is the key to recognizing this fact.
+</string>
+    <string name="step1_incorrect_alert3" translatable="false">We understand this is challenging; however, your answer is incorrect.</string>
+    <string name="step1_second_question" translatable="false"> To confirm that (--) and you are two different existences, each of you must be one self-generated entity and exist as different without your mind\’s labels of \"(--)\" and \“you\”.
+\n These three qualities are necessary for (--) and you as a genuine claim of individual existence.</string>
+    <string name="step1_third_question_title" translatable="false">Is (--) a singular entity?</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="step2_incorrect_alert" translatable="false">We understand this may be challenging. Let’s try this differently..</string>
+    <string name="step2_title" translatable="false">Is (--) able to self-produce?</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="step3_incorrect_alert" translatable="false">We understand this may be challenging. Let’s try this differently.</string>
+    <string name="step3_incorrect_alert2" translatable="false">We understand this may be challenging. Please repeat  Point #1.</string>
+    <string name="step3_incorrect_alert3" translatable="false">We understand this may be challenging, but you are almost there. Please do not give up now; you will realize this truth very soon.</string>
+    <string name="step3_title" translatable="false">Can (--) exist as \“(--)\” without your mind\’s label?</string>
+    <string name="summary_title" translatable="false">What you have discovered: </string>
+    <string name="take_photo" translatable="false">To begin please take a photo of somebody.</string>
+    <string name="take_quiz">Fun Quiz</string>
+    <string name="thankyou" translatable="false">Thank you!</string>
+    <string name="title_congratulation" translatable="false">Congratulations!</string>
+    <string name="title_incorrect" translatable="false">Attention</string>
+    <string name="title_notice" translatable="false">Notice</string>
+    <string name="title_processing" translatable="false">Processing...</string>
+    <string name="title_username" translatable="false">Your name</string>
+    <string name="upload_success" translatable="false">Upload Successful</string>
+    <string name="viceversa" translatable="false">vice versa.</string>
+    <string name="view_videos">View Videos</string>
+    <string name="your_answer_">Your Answer: %s</string>
+    <string name="your_score_">Your score: %d/%d</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

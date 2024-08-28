@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res"><file name="ic_launcher" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/mipmap-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="stay" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/anim/stay.xml" qualifiers="" type="anim"/><file name="slide_from_right" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/anim/slide_from_right.xml" qualifiers="" type="anim"/><file name="slide_to_left" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/anim/slide_to_left.xml" qualifiers="" type="anim"/><file name="slide_up" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/anim/slide_up.xml" qualifiers="" type="anim"/><file name="slide_down" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/anim/slide_down.xml" qualifiers="" type="anim"/><file name="slide_from_left" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/anim/slide_from_left.xml" qualifiers="" type="anim"/><file name="slide_to_right" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/anim/slide_to_right.xml" qualifiers="" type="anim"/><file name="ic_launcher_foreground" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable-v24/ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="ic_launcher" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/mipmap-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="button_no_default" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/button_no_default.xml" qualifiers="" type="drawable"/><file name="dialog_top" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/dialog_top.xml" qualifiers="" type="drawable"/><file name="btn_round_border" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/btn_round_border.xml" qualifiers="" type="drawable"/><file name="answer_no" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/answer_no.xml" qualifiers="" type="drawable"/><file name="button_yes_focused" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/button_yes_focused.xml" qualifiers="" type="drawable"/><file name="ic_view_finder" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_view_finder.xml" qualifiers="" type="drawable"/><file name="button_no_pressed" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/button_no_pressed.xml" qualifiers="" type="drawable"/><file name="ic_ask" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_ask.xml" qualifiers="" type="drawable"/><file name="ic_share" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_share.xml" qualifiers="" type="drawable"/><file name="ic_videos" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_videos.xml" qualifiers="" type="drawable"/><file name="dialog_box" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/dialog_box.xml" qualifiers="" type="drawable"/><file name="splash" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/splash.xml" qualifiers="" type="drawable"/><file name="answer_yes" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/answer_yes.xml" qualifiers="" type="drawable"/><file name="button_yes_default" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/button_yes_default.xml" qualifiers="" type="drawable"/><file name="ic_quiz" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_quiz.xml" qualifiers="" type="drawable"/><file name="ic_back" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_back.xml" qualifiers="" type="drawable"/><file name="ic_baseline_close_24" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_baseline_close_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_arrow_forward_ios_24" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" qualifiers="" type="drawable"/><file name="ic_logo" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_logo.png" qualifiers="" type="drawable"/><file name="ic_read" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_read.xml" qualifiers="" type="drawable"/><file name="button_no_focused" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/button_no_focused.xml" qualifiers="" type="drawable"/><file name="red_blur_40" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/red_blur_40.png" qualifiers="" type="drawable"/><file name="dialog_bottom_main" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/dialog_bottom_main.xml" qualifiers="" type="drawable"/><file name="button_yes_pressed" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/button_yes_pressed.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable/ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="dialog_show_image_part" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/dialog_show_image_part.xml" qualifiers="" type="layout"/><file name="dialog_alert2" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/dialog_alert2.xml" qualifiers="" type="layout"/><file name="fragment_camera" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_camera.xml" qualifiers="" type="layout"/><file name="dialog_alert" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/dialog_alert.xml" qualifiers="" type="layout"/><file name="item_question" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/item_question.xml" qualifiers="" type="layout"/><file name="fragment_quizzes" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_quizzes.xml" qualifiers="" type="layout"/><file name="fragment_image_squares" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_image_squares.xml" qualifiers="" type="layout"/><file name="item_video" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/item_video.xml" qualifiers="" type="layout"/><file name="fragment_summary_share" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_summary_share.xml" qualifiers="" type="layout"/><file name="fragment_videos" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_videos.xml" qualifiers="" type="layout"/><file name="fragment_summary2" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_summary2.xml" qualifiers="" type="layout"/><file name="fragment_article_detail" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_article_detail.xml" qualifiers="" type="layout"/><file name="fragment_summary1" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_summary1.xml" qualifiers="" type="layout"/><file name="toolbar" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/toolbar.xml" qualifiers="" type="layout"/><file name="dialog_scanner" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/dialog_scanner.xml" qualifiers="" type="layout"/><file name="activity_splash" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/activity_splash.xml" qualifiers="" type="layout"/><file name="image_square_item" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/image_square_item.xml" qualifiers="" type="layout"/><file name="drawer_header" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/drawer_header.xml" qualifiers="" type="layout"/><file name="item_quiz" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/item_quiz.xml" qualifiers="" type="layout"/><file name="fragment_quiz_results" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_quiz_results.xml" qualifiers="" type="layout"/><file name="item_user_answer" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/item_user_answer.xml" qualifiers="" type="layout"/><file name="fragment_ask_entity" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_ask_entity.xml" qualifiers="" type="layout"/><file name="dialog_camera" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/dialog_camera.xml" qualifiers="" type="layout"/><file name="item_article" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/item_article.xml" qualifiers="" type="layout"/><file name="fragment_step1" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_step1.xml" qualifiers="" type="layout"/><file name="fragment_step3" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_step3.xml" qualifiers="" type="layout"/><file name="fragment_web_donate" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_web_donate.xml" qualifiers="" type="layout"/><file name="fragment_step2" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_step2.xml" qualifiers="" type="layout"/><file name="fragment_quiz" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_quiz.xml" qualifiers="" type="layout"/><file name="activity_languages" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/activity_languages.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="dialog_ask_name" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/dialog_ask_name.xml" qualifiers="" type="layout"/><file name="fragment_articles" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_articles.xml" qualifiers="" type="layout"/><file name="fragment_official_rules" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_official_rules.xml" qualifiers="" type="layout"/><file name="fragment_summary_final" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/layout/fragment_summary_final.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/mipmap-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">#60b600</color><color name="colorPrimaryDark">#471321</color><color name="colorAccent">#60b600</color><color name="mainColor">#471321</color><color name="light_gray">#F3F4F2</color><color name="white">#ffffff</color><color name="white_trans">#90ffffff</color><color name="black">#000000</color><color name="black_transparent">#90000000</color><color name="textcolor">#D11903</color><color name="button_no_trans70">#7060b600</color><color name="button_no">#60b600</color><color name="button_no_focused">#6fd200</color><color name="button_no_pressed">#509700</color><color name="button_yes">#ff5252</color><color name="button_yes_focused">#fd6565</color><color name="button_yes_pressed">#fb2f2f</color><color name="trans_60_yellow">#60615401</color></file><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/values/dimens.xml" qualifiers=""/><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style></file><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name" translatable="false">Peace Booster</string><string name="exit" translatable="false">Exit</string><string name="note" translatable="false">NOTE</string><string name="current_language" translatable="false">English</string><string name="english" translatable="false">English</string><string name="hebrew" translatable="false">עִברִית</string><string name="arabic" translatable="false">عربى</string><string name="chinese">汉语</string><string name="permission_denied" translatable="false">Permission Granted</string><string name="add_photo" translatable="false">Add Photo to Start:</string><string name="from_gallery" translatable="false">From Your Gallery.</string><string name="take_photo" translatable="false">To begin please take a photo of somebody.</string><string name="upload_success" translatable="false">Upload Successful</string><string name="enter_photo_name" translatable="false">Name this Person.</string><string name="save" translatable="false">Save</string><string name="cancel" translatable="false">Cancel</string><string name="photo_name" translatable="false">Name this Person</string><string name="start" translatable="false">Start</string><string name="retake" translatable="false">Retake Photo</string><string name="step1" translatable="false">1</string><string name="step2" translatable="false">2</string><string name="step3" translatable="false">3</string><string name="answerNo" translatable="false">No</string><string name="answerYes" translatable="false">Yes</string><string name="option_explain" translatable="false">Examine each of the three points below to discover if (--) and you are two different existences.</string><string-array name="step1_options">
+        <item>1. Is (--) one entity?</item>
+        <item>2. Is (--) able to self-produce?</item>
+        <item>3. Do you need your mind\'s labels to exist as different entities?</item>
+    </string-array><string name="q3_dialog_alert" translatable="false"> Your senses are functioning correctly, indicating a deep understanding and uncorrupted senses.
+Consider that all beings, including (--), are manifestations of the same universal physical and non-physical elements, without individual ability to generate themselves; thus, everyone is identical and shares a common origin.
+        There are no differences between people, except for relative ones, like "\you\", \"me\", "\short\" or \"tall\" which arise through concepts invented and projected by our minds.
+        This realization is the path to true peace and happiness.
+        Since you and (--) are without individual existence, any action against (--) is an action against yourself and vice versa.
+        You may not need this app but feel free to use for further understanding.
+ </string><string-array name="step1_first_questions">
+        
+        <item>Do you experience (--)\’s existence and yours as two different existences?</item>
+        
+        <item>Are you suggesting that you perceive and experience (--) to have the same existence as yours?</item>
+        
+        <item>Are you absolutely certain you and (--) share the same existence?</item></string-array><string name="step1_second_question" translatable="false"> To confirm that (--) and you are two different existences, each of you must be one self-generated entity and exist as different without your mind\’s labels of \"(--)\" and \“you\”.
+\n These three qualities are necessary for (--) and you as a genuine claim of individual existence.</string><string name="step1_third_question_title" translatable="false">Is (--) a singular entity?</string><string-array name="step1_third_questions">
+        
+        <item>Can you see that (--) is not one entity, but made of parts?</item>
+        
+        <item>Do you see the red squares indicating the parts?</item>
+        
+        <item>The analysis found that (--) is not a singular entity but made of parts that you seem unable to see. Can you at least see that (--) is made up of a right and left side? </item>
+        
+        <item>The analysis found that (--) is not a singular entity but made of parts and halves. What is made of parts and halves is not singular and thus cannot be treated as a singular entity. (--) is not one entity.</item>
+        
+        <item>If (--) is not a singular entity, is it logical to treat (--) as a singular entity?</item>
+        
+        <item>The fact that (--) is not a singular entity but made of many parts and halves cannot co-exist with your belief that (--) is a singular entity. Do you agree that a singular entity should be singular?</item>
+    </string-array><string name="step1_incorrect_alert" translatable="false">Really? In that case, something is not displaying correctly on your phone, but please keep going.</string><string name="step1_incorrect_alert2" translatable="false">  We understand this is challenging. Please acknowledge what you see, not what you believe about people. An honest observation is the key to recognizing this fact.
+</string><string name="step1_incorrect_alert3" translatable="false">We understand this is challenging; however, your answer is incorrect.</string><string name="complete_step1" translatable="false">Correct! In Step 1 you’ve recognized that (--) is not one entity but a composite of various parts and halves.
+       \n  By acknowledging this, you’ve taken the first step towards understanding the true nature of existence.
+    \n    Remember, (--) is not one entity, and this realization sets the foundation for the next steps in discovering the profound sameness and interconnectedness we all share.
+        \n\n
+        Congratulations. You have completed Step #1.</string><string name="step2_title" translatable="false">Is (--) able to self-produce?</string><string-array name="step2_questions">
+        
+        <item>Did (--) generate her/his being?</item>
+        
+        <item>Did (--) self-produce without any parents?</item>
+        
+        <item>Did (--) self-generate without any artificial laboratory procedure, or other processes?</item>
+        
+        <item> This is incorrect. (--) did not self-generate because (--) lacks an individual nature of any kind that could do that.
+            All living beings exist without any personal nature, thus no one can self-generate; instead, everyone is a manifestation of the same universal nature.
+
+\n Thus, (--) is not different from you or anybody, and vice versa, as everyone is a product of the same universal nature and not their own.</item>
+    </string-array><string name="p4_disagree" translatable="false">Incorrect: Please consider reviewing Step #2, or Start Over.</string><string name="step2_incorrect_alert" translatable="false">We understand this may be challenging. Let’s try this differently..</string><string name="complete_step2" translatable="false">  Congratulations! Step 2 has revealed that (--) did not self-produce because (--) lacks individual nature of any kind that could; instead (--) is a manifestation of the universal nature and its countless and ever-changing physical and non-physical elements.
+\n Thus, (--) is not different from you or anybody, and vice versa, as everyone is a product of the same universal nature and not their own.
+\n This understanding challenges the notion of individual existence and highlights the universal origin and essence we all share.
+\n By grasping this fact, you’ve paved the way for deeper insights into the nature of existence most people remain unaware of.
+
+        \n\n Congratulations. You have completed Step #2!</string><string name="step3_title" translatable="false">Can (--) exist as \“(--)\” without your mind\’s label?</string><string-array name="step3_questions">
+        
+        <item>Can this person exist as (--) without your mind\’s label of \“(--)\”? </item>
+        
+        <item>Do Humans invent and give labels to everything?</item>
+        
+        <item>If your mind did not name your body and mind as \“(==)\”, would people call you (==)? </item>
+        
+        <item>If you did not name this person \"(--)\", would they exist to you as (--)?</item>
+        
+        <item>If this person was already (--), would it make sense to label what is already (--) as \"(--)\" again?</item>
+        
+        <item>This person has been existing without any label until the label \"(--)\" was created and projected by your mind for convenience\'s sake.
+            This way, everybody can function in concepts as \"(--)\" and \“you\” .</item>
+        <item>Incorrect. Please consider reviewing</item>
+    </string-array><string name="step3_incorrect_alert" translatable="false">We understand this may be challenging. Let’s try this differently.</string><string name="step3_incorrect_alert2" translatable="false">We understand this may be challenging. Please repeat  Point #1.</string><string name="step3_incorrect_alert3" translatable="false">We understand this may be challenging, but you are almost there. Please do not give up now; you will realize this truth very soon.</string><string name="complete_step3" translatable="false"> Correct. In Step 3, you explored the facts of your mind\'s labeling and discovered that the person in the photo cannot exist as (--) without your mind\’s label of \"(--)\".
+        \n This realization extends to your own existence, emphasizing the role of mental labels in shaping perceptions and experiences.
+        \n Please remember, that the label \"(--)\" is merely a construct of your mind. All labels originate from your mind rather than from the side of any physical forms you are experiencing.
+        \n Recognizing this challenges the notion of separate existences, as human distinctions exist only in labels.
+        \n Reflect on how your experience may contradict this fundamental truth.
+       \n\n Congratulations. You have completed Step #3.</string><string name="summary_title" translatable="false">What you have discovered: </string><string-array name="summary_texts">
+        
+        <item>In the beginning, you said that you perceive and experience (--)\’s existence and yours as two different existences.</item>
+        
+        <item> To claim a true individual existence (--) and you need to be two different existences where each of you is:
+            \n\n
+            \n1. One entity.
+            \n2. Able to self-generate.
+            \n3. Existing as (--) and you without your mind\'s labels.
+            \n\n
+        However, you successfully completed all 3 Steps and found the opposite to be true about (--) and you.
+        </item>
+        
+        <item>You discovered that (--) and you are:
+            \n1. Not one entity.
+            \n2. Not able to generate yourselves.
+            \n3. In need of your mind\’s labels of “\(--)\” and \“you\” to exist as (--) and you.
+            \n
+             \n\n  This proves that (--) and you are not two different existences, and your senses are not showing this fact correctly.
+        </item>
+        
+        <item> Conclusion: it appears to your mind that (--) and you possess different existences, but when examined, (--) and you do not.
+            \n This proves that your senses are lying to you because (--) and you appear to possess individual existence, but that is not true.</item>
+        
+        <item> Both you and (--), along with everything else in the world, lack individual existence.
+    \n Consequently, considering (--) and you as two distinct entities is illogical, as neither one of you is one entity and both of you lack individual nature that could independently bring about your existence.
+    \n You both share the identical origin and essence of countless universal elements, encompassing both physical and nonphysical aspects.
+    \n Any perceived distinctions are without different natures and thus are only relative, existing solely in conceptual labels such as \"(--)\", \"(==)\", \"you\", \"tall\", \"short\", etc. created by the mind, while our essence remains universally shared.</item>
+        
+        <item> Every living being manifests from the same universal nature, comprising both physical and non-physical elements, rather than originating autonomously.
+\n Recognizing the identical universal essence and origin shared by everyone challenges the notion of multiple existences, revealing all-encompassing identical Universal existence.
+\n
+This insight dispels the misconception of different existences that we erroneously perceive and believe in.</item>
+        
+        <item>Since you and (--) share the same existence, why do humans believe in many different existences and experience them as real?</item>
+    </string-array><string-array name="summary_questions">
+        <item> 99 percent of humans are not aware that all people exist without individual existence.
+            \n Then our minds invent labels such as \"(--)\", \"(==)\", \"you\", \"I\", \"they\", \”American\”, \”European\”, \”Asian\”, \”African\”, or \”Whatever\”.
+\n The mind projects them onto people and wrongly believes them as facts about everyone.
+            \n Our belief in various labels changes the truth about people and causes them to appear to have a different existence from ours, even though everyone lacks individual existence.
+
+\n\n
+            All differences between people are relative and exist in concepts only as you discovered in Step #3.
+        </item>
+        
+        <item>
+(--) and you exist without independent existence as neither one of you is a singular entity, and neither possesses an individual nature capable of self-production;
+            instead, you both share the common origin and essence of the same universal nature, comprising both physical and non-physical elements, rather than originating autonomously.
+            \n\n
+            Considering this, does it make logical sense to treat (--) and you as two distinct existences?
+
+        </item>
+        
+        <item>
+            Singular entities capable of self-production, a characteristic needed for possessing one’s own existence, do not exist, as you learned from completing Step #1 and Step #2.
+            \n\n
+            Recognizing that (--) and you lack individual existence, it becomes illogical to perceive and treat you and (--) as two distinct entities.
+        </item>
+        
+        <item>
+            Correct. You and (--) lack individual existence as you’re not singular entities with the capacity for self-production.  Instead, both of you are compositions of the same universal nature, comprising of countless physical and non-physical elements, rather than originating autonomously.
+Your origin and essence are identical, and any perceived distinctions do not belong to any individual; they are relative and arise from your mind\'s conceptualizations. Recognizing this, any action against (--) is essentially an action against yourself, and vice versa.
+            \n\n
+    Do you now recognize that any conflict between you two, or anyone else, is essentially a conflict against oneself?
+        </item>
+        
+        <item>
+           Take a moment to reflect profoundly on each question. Envision the presented information without the influence of preconceived notions to grasp life’s facts and the truth of this conclusion.
+        </item>
+    </string-array><string name="p9_second_sentence" translatable="false">These are the incorruptible facts of how everyone exists with no exceptions. Do you see and understand this?</string><string-array name="summary_finals">
+        
+        <item>
+            Correct and Congratulations!
+ \n\n By navigating the fundamental aspects of existence, you’ve grasped that (--) and you share the same origin and essence, devoid of any individual nature.
+            \n Any distinctions between you two are relative and exist in mere labels only.
+            \n Understanding the sameness we all share eliminates the basis for conflicts and unhappiness.
+            \n Recognizing this reality is pivotal, as any conflict between you two or anyone else is fundamentally a conflict against oneself.
+            \n
+            A true peace and happiness await those who comprehend and practice this profound understanding.</item>
+        
+        <item>
+           Now, empowered with the understanding and evidence that human senses have deceived humanity for centuries, you recognize the contradiction in the prevailing viewpoint that everyone possesses their own existence.
+             \n This ignorance fuels conflicts, unhappiness, and suffering.
+             \n Embracing this correct knowledge paves the simplest path to inexhaustible wisdom, peace, and happiness for you and the world.
+ \n
+             \n If you believe this app has the potential to break the endless cycle of self-made conflict, please help us spread the word.
+ \n\n
+            Thank you!
+            Congratulations! You have completed all 3 Steps and Conclusions!
+        </item>
+    </string-array><string name="link_step1" translatable="false"><b><u>Step #1</u></b></string><string name="link_step2" translatable="false"><b><u>Step #2</u></b></string><string name="link_step3" translatable="false"><b><u>Step #3</u></b></string><string name="please_donate" translatable="false">Please donate to improve and keep this app free to all.</string><string name="go_to_point2" translatable="false">Go to Step #2</string><string name="go_to_point3" translatable="false">Go to Step #3</string><string name="title_notice" translatable="false">Notice</string><string name="title_processing" translatable="false">Processing...</string><string name="title_congratulation" translatable="false">Congratulations!</string><string name="title_incorrect" translatable="false">Attention</string><string name="title_username" translatable="false">Your name</string><string name="click_photo" translatable="false">Click on the photo to confirm if (--) is one entity.</string><string name="enter_username" translatable="false">Enter your name.</string><string name="button_ok" translatable="false">Ok</string><string name="button_agree" translatable="false">Agree</string><string name="button_disagree" translatable="false">Disagree</string><string name="button_next" translatable="false">Next</string><string name="button_start_over" translatable="false">Start Over</string><string name="buton_save" translatable="false">Save</string><string name="button_donate" translatable="false">DONATE</string><string name="go_to_conclusion" translatable="false">Go to Conclusion</string><string name="link_step1_or" translatable="false"><b><u>or Step #1</u></b></string><string name="link_step2_or" translatable="false"><b><u>or Step #2</u></b></string><string name="link_step3_again" translatable="false"><b><u> Step #3 again</u></b></string><string name="button_start_over_or" translatable="false">or Start Over</string><string name="however" translatable="false">However,</string><string name="viceversa" translatable="false">vice versa.</string><string name="thankyou" translatable="false">Thank you!</string><string name="narrative" translatable="false">
+        WELCOME TO PEACE BOOSTER.
+        \n\n
+        Embark on a journey to discover the key to a life of effortless peace, fulfillment, and joy.
+         \n
+        Uncover the truth beyond your mind\’s deceptions, a truth that has the power to end injustice, war, and suffering worldwide.
+         \n
+        Unveil the true nature of the world and understand the role of your mind in shaping it.
+    </string><string name="button_another_picture" translatable="false">Take Another Picture</string><string name="share_senators" translatable="false">Share it with your Senators:</string><string name="share_congressman" translatable="false">Share it with your Congressman:</string><string name="button_text" translatable="false">Text</string><string name="button_tweet" translatable="false">Tweet</string><string name="official_rules"><u>The Foundation of this App.</u></string><string name="official_title">The Foundation of this App.</string><string name="official_content">
+The Foundation of this App.
+\n\n
+At first glance, the world appears teeming with diversity. However, undeniable facts about everybody challenge and contradict our everyday perception and experience of each other as different and separate.
+\n
+Each of us experiences ourselves as different and separate from everybody else, but is this a fact or an illusion?
+Find out for yourself:
+\n\n
+To truly exist independently, a person must meet three criteria:
+\n
+1. Unity: The person must be a single, indivisible entity. If they are not one thing, they cannot be considered one person.
+\n
+2. Independence: The person must have an independent nature that brings about their own existence. If their existence depends on everything else, then they lack a unique essence that makes them different from others.
+\n
+3. Concept-Free Existence: The person must exist without relying on our mind\’s label of "a person." If they exist only as a concept, it means they are a person only in the ideas our mind creates, projects, and believes in.
+\n\n
+We invite you to use our app to explore how everyone truly exists and discover these insights for yourself. Have fun!
+
+    </string><string name="read_articles">Read Articles</string><string name="view_videos">View Videos</string><string name="ask_for_clarification">Ask for Clarification</string><string name="share_app">Share App</string><string name="close">close</string><string name="open">open</string><string name="take_quiz">Fun Quiz</string><string name="finish">Finish</string><string name="your_score_">Your score: %d/%d</string><string name="your_answer_">Your Answer: %s</string><string name="correct_answer_">CorrectAnswer: %s</string><string name="question_skipped">Question was skipped</string></file><file name="ic_notification" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable-xhdpi/ic_notification.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_notification" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable-xxhdpi/ic_notification.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_notification" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable-hdpi/ic_notification.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_drawer" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/menu/menu_drawer.xml" qualifiers="" type="menu"/><file name="ic_notification" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable-mdpi/ic_notification.png" qualifiers="mdpi-v4" type="drawable"/><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/values-iw/strings.xml" qualifiers="iw"><string name="app_name">Peace Booster</string><string name="exit">יְצִיאָה</string><string name="note">הערה</string><string name="current_language">עִברִית</string><string name="english">English</string><string name="hebrew">עִברִית</string><string name="arabic">عربي</string><string name="chinese">汉语</string><string name="permission_denied">ההיתר נדחה</string><string name="add_photo">הוסף תמונה</string><string name="from_gallery">גלריה</string><string name="take_photo">תצלם בן אדם</string><string name="upload_success">העלה בהצלחה</string><string name="enter_photo_name">תן שם לתמונה.</string><string name="save">לשמור</string><string name="cancel">לְבַטֵל</string><string name="photo_name">שם התמונה</string><string name="start">הַתחָלָה</string><string name="retake">צלם מחדש</string><string name="step1">1</string><string name="step2">2</string><string name="step3">3</string><string name="answerNo">לא</string><string name="answerYes">כן</string><string name="option_explain">אנא בחנ/י את 3 הנקודות למטה כדי לגלות אם (--) בעל קיום עצמאי או לא.</string><string-array name="step1_options">
+        <item>1 האם (--) הינו יישות יחידנית?</item>
+        <item> 2 האם (--) מסוגל/ת ליצור באופן עצמאי?</item>
+        <item>3 האם אתה ו-(--) צריכים שתוויות המוח שלכם יתקיימו כישויות שונות?  </item>
+    </string-array><string name="q3_dialog_alert">הערה: החושים שלך פועלים כהלכה, מה שמצביע על הבנה עמוקה. קחו בחשבון שכל היצורים, כולל (--), הם ביטויים של אותם יסודות פיזיים ולא-פיסיים אוניברסליים, ללא יכולת ליצור את עצמם; לפיכך, אנו חולקים מוצא משותף. הבדלים מתעוררים רק דרך מושגים שמוקרנים על ידי המוח שלנו. הבנה זו היא הדרך לשלום ואושר אמיתיים. מכיוון שאתה ו-(--) הינכם ללא קיום משלכם, כל פעולה נגד (--) היא פעולה נגד עצמכם ולהיפך. יתכן שאינכם צריכים את  האפליקציה הזו אבל אתם מוזמנים להשתמש בה להעמקת ההבנה.
+      </string><string-array name="step1_first_questions">
+        
+        <item> האם אתה חווה את קיומו של (--) ושלך כשני קיומים שונים? </item>
+        
+        <item> האם אתה מציע שאתה תופס וחווה את (--) להיות בעל אותו קיום כמו שלך?  </item>
+        
+        <item>האם אתה בטוח לגמרי שאתה ו־(--) משתפים את אותו קיום?  </item>
+
+
+    </string-array><string name="step1_second_question">כדי לאמת ש- (--) ואתה מחזיקים בקיום עצמאי, שקול את שלושת התכונות החיוניים האלו. אלו התכונות הנחוצות לטענה אמיתית על קיומך האישי.   זה אומר שכל אחד מכם צריך להיות ישות יחידה ובעל ייצור עצמי, ולהתקיים כיישות שונה ללא תוויות המוח שלך כגון \"(--)\" ו\"אתה\".
+ </string><string name="step1_third_question_title">האם (--) הינו/הינה יישות אחת? </string><string-array name="step1_third_questions">
+        
+        <item> האם אתה רואה ש- (--) הוא לא יחיד אלא מורכב מחלקים? </item>
+        
+        <item> האם אתה רואה את הריבועים האדומים שמציינים את החלקים? </item>
+        
+        <item> הניתוח מצא כי (--) אינה ישות יחידה אתא עשויה מחלקים שכנראה אינך מסוגל לראות. אם אתה יכול לפחות לראות ש (--) מורכב מצד ימין ומצד שמאל? </item>
+        
+        <item> הניתוח מצא כי (--) אינו ישות יחידה אלא עשויה מחלקים ומחצאים. מה שעשוי מחלקים ומחצאים אינו ישות יחידה ולכן לא ניתן להתייחס אליו כאל ישות יחידה. (--) אינו ישות יחידה.  </item>
+        
+        <item>  אם (--) אינו ישות יחידנית, האם זה הגיוני להתייחס ל- (--) כאל ישות יחידה? </item>
+        
+        <item> העובדה ש-(--) אינה ישות יחידה אלא עשויה מחלקים וחצאים רבים אינה יכולה להתקיים יחד עם האמונה שלך כי (--) היא ישות יחידה. האם אתה מסכים שישות יחידה צריכה להיות יחידה?  </item>
+    </string-array><string name="step1_incorrect_alert"> בֶּאֱמֶת? במקרה כזה, משהו לא מוצג כהלכה בטלפון שלך, אבל בבקשה המשך כך. </string><string name="step1_incorrect_alert2"> אנו מבינים שזה לא קל. בואו ננסה להבין את זה אחרת</string><string name="step1_incorrect_alert3"> אנו מבינים שזה לא קל. אבל, תשובתך אינה נכונה </string><string name="complete_step1"> נכון! זיהית ש-(--) אינו ישות יחידה אלא חיבור של חלקים וחצאים שונים.
+
+על ידי הכרה בכך, עשית את הצעד הראשון לקראת הבנת הטבע האמיתי של הקיום.
+ \n
+זכרו, (--) איננה ישות אחת, וההבנה הזו מציבה את הבסיס לשלבים הבאים בגילוי האחדות העמוקה והקישוריות שכולנו חולקים.
+   \n\n מזל טוב! סיימת נקודה 1
+
+    </string><string name="step2_title">  האם (--) מסוגל לייצור עצמי? </string><string-array name="step2_questions">
+        
+        <item> היוכלו (--) לייצר את עצמם? </item>
+        
+        <item> האם (--) יצרו את עצמם לבד ללא הורים? </item>
+        
+        <item>האם (--) יצר/ה את עצמו/עצמה לבד ללא תהליך מעבדתי מלאכותי (הזרעה מלאכותית) או על ידי תהליכים אחרים?</item>
+        
+        <item> זה לא נכון. (--) לא ייצרו את עצמם מכיוון שחסר להם הטבע האינדיבידואלי שיכול ליצור אותם; במקום זאת, (--) הוא ביטוי של אותם אינספור אלמנטים אוניברסליים פיזיים ולא-פיזיים המשתנים ללא הרף. בהיותנו ללא טבע משלנו, אף יצור חי אינו יכול ליצור את עצמו, ולכן המקור והמהות של (--) זהים לכולם כולל אותך. לפיכך, (--) אינו שונה מאף אחד, ולהיפך, מכיוון שכולם מלאים במהות הנגזרת מהיסודות האוניברסליים הללו ולא משלהם
+ </item>
+    </string-array><string name="p4_disagree"> לא נכון. תשקול לחזור לתחילת נקודה 2 או התחל מהתחלה</string><string name="step2_incorrect_alert">אנו מבינים שזה לא קל. בואו ננסה להבין את זה אחרת</string><string name="complete_step2"> שלב 2 גילה כי (--) לא ייצר בעצמו שכן (--) חסר אופי קבוע אינדיבידואלי מכל סוג שיכול ליצור אותו; במקום זאת (--) הוא ביטוי של הטבע האוניברסלי ושל אינספור היסודות הפיזיים והלא-פיזיים המשתנים ללא הרף.
+לפיכך, (--) אינו שונה ממך או מאף אחד, ולהיפך, שכן כולם הם תוצר של אותו טבע אוניברסלי ולא משלהם.
+הבנה זו מאתגרת את הרעיון של קיום אינדיבידואלי ומדגישה את המקור והמהות האוניברסליים שכולנו חולקים.
+על ידי תפיסת העובדה הזו, סללת את הדרך לתובנות עמוקות יותר על טבע הקיום שרוב האנשים לא מודעים אליו.
+    \n   מזל טוב! סיימת נקודה 2 </string><string name="step3_title"> האם (--) יכול להתקיים כ- \"(--)\" ללא התווית של דעתך? </string><string-array name="step3_questions">
+        
+        <item>  האם אדם זה יכול להתקיים כ (--) ללא התווית של דעתך של \"(--)\"? </item>
+        
+        <item>  האם בני אדם נותנים תוויות לכל דבר?   </item>
+        
+        <item> אם המוח שלך לא שם את גופך ונפשך כ- \"(==)\", האם אנשים היו קוראים לך \"(==)\"? </item>
+        
+        <item> אם לא היית קורא לאדם זה  \"(--)\", האם הוא היה קיים אצלך בתור (--)? </item>
+        
+        <item> אם האדם הזה כבר היה (--), האם זה הגיוני לתייג את מהינו כבר (--) כ-  \"(--)\" שוב? </item>
+        
+        <item>  אדם זה היה קיים ללא תווית כלשהי עד שהתווית \"(--)\" נוצרה והוקרנה על ידי דעתך מטעמי נוחות. בדרך זו, כל אחד יכול לתפקד במושגים כמו \"(--)\" ו"\אתה\".
+ </item>
+        
+        <item>לא נכון.  אנא שקול לבדוק שוב את נקודה  3</item>
+    </string-array><string name="step3_incorrect_alert"> אנחנו מבינים שזה לא קל. ננסה להבין בדרך אחרת</string><string name="step3_incorrect_alert2"> אנו מבינים שזה לא קל. נא לחזור על שלב א</string><string name="step3_incorrect_alert3"> אנחנו מבינים שזה לא קל, אך כמעט הגעת לשם. אל תוותר/י עכשיו, תכף תוכל/י להבין את האמת הזאת.</string><string name="complete_step3">
+
+נכון. בשלב 3, חקרת את העובדות של תיוג המוח שלך וגילית שהאדם בתמונה לא יכול להתקיים בתור (--) ללא תווית המוח שלך של \"(--)\".
+\n ההבנה הזו משתרעת על הקיום שלך, תוך שימת דגש על תפקידן של תוויות מנטליות בעיצוב תפיסות וחוויות
+\n אנא זכור ש-\"(--)\" הוא רק תווית בראש שלך ואינו נמצא בצד התמונה או כל צורה פיזית שאתה תופס או חווה
+\n הבנה זו מוכיחה שקיימים נפרדים היא שקרית מכיוון שכולם זהים במהות ובמקור ושונים רק בתוויות המוח שלנו
+\n\n מזל טוב. השלמת את שלב מס .3
+     מזל טוב! השלמת שלב מס 3 \n
+    </string><string name="summary_title">הנה סיכום של מה שהתגלה: </string><string-array name="summary_texts">
+        
+        <item>  בהתחלה אמרת שאתה תופס וחווה את קיומו של (--) ושלך כשני קיומים שונים. </item>
+        
+        <item> כדי לתבוע קיום אינדיבידואלי אמיתי (--) ואתה צריך להיות שני קיום שונים, ולכן כל אחד מכם צריך להיות
+            \n
+1. ישות אחת
+            \n
+2. מסוגל ליצור את עצמך
+            \n
+3. קיים כ (--) ו- \"אתה\" ללא תוויות
+n\n\
+
+               עם זאת, השלמת בהצלחה את כל 3 השלבים ומצאת שההפך נכון לגבי (--) ואליך.</item>
+        
+        <item> גילית את זה (--) ואתה: \n
+1. לא ישות יחידה     \n
+2. אינו מסוגל לייצור עצמי, אלא מיוצרים על ידי אותם חלקים אוניברסליים משותפים    \n
+3. זקוק לתווית של מוחך עבור  \"(--)\" ו- \"אתה\" כדי להתקיים כ- (--) ואתה \n
+
+          n\n\  זה מוכיח ש(--) ואתם אינם שני קיום שונים, והחושים שלכם אינם מראים את העובדה הזו בצורה נכונה.
+        </item>
+
+        
+        <item> מסקנה: נראה לך שמוחך כי ל-(--)  ולך יש קיום משלכם, אך כאשר זה נבדק, מסתבר של-(--) ולך אין קיום עצמאי. זה מוכיח שהחושים שלך משקרים לך מכיוון של-(--) ולך נראה שאתם מחזיקים בקיום משלכם, אבל זה לא נכון.
+   </item>
+
+        
+        <item> גם לך וגם ל-(--), יחד עם כל דבר אחר בעולם, חסרים קיום עצמאי. כתוצאה מכך, התחשבות ב-(--) ובכם כישויות נבדלות אינה הגיונית, מכיוון שאף אחד מכם אינו ישות יחידה ולשניכם חסר טבע אינדיבידואלי קבוע שיכול להביא קיום באופן עצמאי.
+ \n
+שניכם חולקים את המקור והמהות הזהים של אינספור אלמנטים אוניברסליים, הכוללים היבטים פיזיים ולא-פיזיים כאחד.
+כל ההבחנות הנתפסות הן יחסיות, קיימות אך ורק בתוויות מושגיות או בשמות שנוצרו על ידי המוח, בעוד המהות שלנו נשארת משותפת אוניברסלית. </item>
+        
+        <item> אתה ו-(--) אינם קיומים נפרדים, שכן הגוף, הנפש שלך, או כל חלק מהם אינם יחידים לצמיתות. בהיעדר כל טבע אינדיבידואלי קבוע שיכול ליצור אותך, הגוף והמוח שלך דומים לחידות משתנות ללא הרף המורכבות מהיסודות הפיזיים והלא-פיזיים הדינמיים של היקום.
+\n
+הכרה במהות ובמוצא זהים המשותפים לכולם מאתגר את הרעיון של קיומים מרובים, וחושף קיום אוניברסלי יחיד, מקיף.
+תובנה זו מפזרת את התפיסה השגויה של קיומים מגוונים שאנו עשויים לתפוס בטעות ולהאמין בהם. </item>
+        
+        <item>   מכיוון שאתה ו-(--) חולקים באותו קיום, למה בני אדם מאמינים בקיומים רבים שונים וחווים אותם כממשיים? </item>
+    </string-array><string-array name="summary_questions">
+        
+        <item>
+99 אחוז מבני האדם אינם מודעים לכך שכל האנשים קיימים ללא קיום אינדיבידואלי.
+אז המוח שלנו ממציא תוויות כגון \"(--)\", \"(==)\", \"אתה\", \"אני\", \"הם\", \"אמריקאי\", \"אירופאי\", \"אסייתי\", \"אפריקאי\", או \"מה שלא יהיה\". המוח משליך אותם על אנשים ומאמין בהם בטעות כעובדות על כולם. האמונה שלנו בתיוגים שונים משנה את האמת על אנשים וגורמת להם להיראות כבעלי קיום שונה משלנו, למרות שלכולם אין קיום אינדיבידואלי.
+
+        \n\n
+            כל ההבחנות בין אנשים הן יחסיות וקיימות רק במושגים, כפי שגילית בשלב מספר 3.
+            \n\n
+            אלה העובדות הבלתי ניתנות לעירעור על איך כולם קיימים ללא חריגים.
+           אתה רואה ומבין את זה?
+</item>
+        
+        <item> (--) ואתה קיימים ללא קיום עצמאי מכיוון שאף אחד מכם אינו ישות יחידה. אף אחד מכם אינו בעל אופי אינדיבידואלי המסוגל לייצור עצמי; במקום זאת, שניכם חולקים את המקור והמהות המשותפים של אינספור היסודות הפיזיים והלא-פיזיים האוניברסליים המשתנים ללא הרף. בהתחשב בכך, האם זה הגיוני להתייחס אל (--) ואליך כאל שני קיומים נפרדים? </item>
+        
+        <item> ישויות יחיד המסוגלות לייצור עצמי, מאפיין הדרוש להחזקת קיומו של עצמו, אינן קיימות, כפי שלמדת מהשלמת שלב 1 ושלב מס 2. מתוך הכרה בכך (--) ואתה חסרים קיום אינדיבידואלי, זה נעשה לא הגיוני לתפוס אותך ולהתייחס אליך ואל (--) כאל שתי ישויות נפרדות.
+            </item>
+        
+        <item> נכון. אתה ו-(--) חסרים קיום אינדיבידואלי מכיוון שאינכם ישויות יחידניות ואתם ללא יכולת ייצור עצמי. במקום זאת, שניכם הינכם קומפוזיציות של אותם אינספור אלמנטים פיזיים ולא-פיזיים אוניברסליים. המקור והמהות שלכם זהים, וכל ההבחנות הנתפסות הן יחסיות, הנובעות מההמשגות של המוח שלך.
+\n\n
+מתוך הכרה בכך, כל פעולה נגד (--) היא למעשה פעולה נגד עצמך ולהיפך.
+        \n\n
+            האם אתה מכיר כעת כי כל קונפליקט בין שניכם, או מישהו אחר, הוא למעשה קונפליקט נגד עצמך?
+        </item>
+        
+        <item>   הקדישו רגע להרהור מעמיק בכל שאלה. דמיינו את המידע המוצג ללא השפעה של דעות קדומות כדי להבין את עובדות החיים ואת אמיתות מסקנה זו. </item>
+    </string-array><string name="p9_second_sentence">אלו הן עובדות שאינן ניתנות להפרחה לגבי הקיום של כל אדם ללא חריגות.
+ האם את/ה רואה ומבינ/ה זאת?</string><string-array name="summary_finals">
+        
+        <item> נכון וכל הכבוד! על ידי ניווט בהיבטים הבסיסיים של הקיום, הבנתם את זה (--) ואתם חולקים את אותו המקור והמהות, ללא שום אופי אינדיבידואלי. כל הבדלים ביניכם הם יחסיים ומתקיימים בתוויות בלבד.
+\n
+הבנת האחדות שכולנו חולקים מבטלת את הבסיס לקונפליקטים. ההכרה במציאות הזו היא חיונית, שכן כל עימות בינכם או כל אחד אחר מתנגש ביסודו נגד עצמו.
+\n
+ שלווה ואושר אמיתיים מחכים לאלה שמבינים ומתרגלים את ההבנה העמוקה הזו.
+        </item>
+        
+        <item>
+כעת, חמושים בהבנה ובהוכחות לכך שהחושים האנושיים הטעו את האנושות במשך מאות שנים, אתה מזהה את הסתירה בנקודת המבט הרווחת שלפיה לכל אחד יש את הקיום שלו. בורות זו מלבה קונפליקטים, אומללות וסבל. אימוץ הידע החדש והנכון הזה סוללת את הדרך הפשוטה ביותר לחוכמה, שלווה ואושר בלתי נדלים עבורך ועבור העולם.
+\n\n
+            אם אתה מאמין שלאפליקציה הזו יש פוטנציאל לשבור את המחזור האינסופי של קונפליקט מתוצרת עצמית, אנא עזורו לנו להפיץ את המילה.
+            תודה לך!
+\n\n
+מזל טוב! סיימת את כל 3 הנקודות ומסקנותיהן!
+</item>
+    </string-array><string name="link_step1"><b><u>  נקודה 1 </u></b></string><string name="link_step2"><b><u>  נקודה 2</u></b></string><string name="link_step3"><b><u>  נקודה 3</u></b></string><string name="please_donate"> אנא תתרמו למען שיפור האפליקציה הזאת וכדי להשאיר אותה חינמית לכל אדם</string><string name="go_to_point2"> עבור לנקודה 2 </string><string name="go_to_point3"> עבור לנקודה 3</string><string name="title_notice"> שימו לב </string><string name="title_processing">מעבד נתונים </string><string name="title_congratulation">  מזל טוב </string><string name="title_incorrect"> זה לא נכון </string><string name="title_username"> שם משתמש </string><string name="click_photo">  הקש/י על התמונה כדי לראות את כל חלקיו </string><string name="enter_username">הכניס/י שם משתמש </string><string name="button_ok"> בסדר</string><string name="button_agree"> מסכים </string><string name="button_disagree"> לא מסכים</string><string name="button_next">   הבא </string><string name="button_start_over"> תתחיל מהתחלה </string><string name="buton_save"> שמור </string><string name="button_donate"> לתרום </string><string name="go_to_conclusion"> גש/י למסקנות</string><string name="link_step1_or"><b><u>או את נקודה 1</u></b></string><string name="link_step2_or"><b><u>או את נקודה 2  </u></b></string><string name="link_step3_again"><b><u>נקודה מס 3 שוב</u></b></string><string name="button_start_over_or">או התחל מחדש</string><string name="however">ואמנם,</string><string name="viceversa">ולהיפך.</string><string name="thankyou">תודה לך!</string><string name="narrative">
+        צא למסע לגלות את המפתח לחיי שלום, הגשמה ושמחה ללא מאמץ.
+\n
+        תחשוף את האמת מעבר להונאות דעתך, לאמת שיש לך את הכוח לסיים עוול, מלחמה וסבל ברחבי העולם.
+\n
+        הבלתי אפשרי לכאורה הופך להשגה כשאתה חושף את אופיו האמיתי של העולם ומבין את תפקיד מוחך בעיצובו.
+
+\n\n
+שים לב ש:
+
+       \n ביישום זה, לשון זכר ונקבה זהה
+    </string><string name="button_another_picture">קח תמונה נוספת</string><string name="share_senators">תחלוק את זה עם חברי הכנסת שלך</string><string name="share_congressman">תחלוק את זה עם השרים שלך</string><string name="button_text">טקסט</string><string name="button_tweet">ציוץ</string><string name="official_rules"><u>הבסיס של האפליקציה הזו.</u></string><string name="official_title">הבסיס של האפליקציה הזו.</string><string name="official_content">
+הבסיס של אפליקציה זו.
+\n
+במבט ראשון, העולם נראה שופע גיוון. עם זאת, עובדות שאין להכחישה על כולם מאתגרות וסותרות את התפיסה והחוויה היומיומית שלנו זה את זה כשונים ונפרדים.
+\n
+כל אחד מאיתנו חווה את עצמו כשונה ונפרד מכל השאר, אבל האם זו עובדה או אשליה?
+גלה בעצמך:
+\n\n
+כדי להתקיים באמת באופן עצמאי, אדם חייב לעמוד בשלושה קריטריונים:
+\n
+1. אחדות: האדם חייב להיות ישות אחת, בלתי ניתנת לחלוקה. אם הם לא דבר אחד, הם לא יכולים להיחשב כאדם אחד.
+\n
+2. עצמאות: על האדם להיות בעל אופי עצמאי המביא לקיומו שלו. אם קיומם תלוי בכל השאר, אזי חסרה להם מהות ייחודית שמבדילה אותם מאחרים.
+\n
+3. קיום ללא מושגים: האדם חייב להתקיים מבלי להסתמך על התווית של המוח שלנו "אדם". אם הם קיימים רק בתור מושג, זה אומר שהם אדם רק ברעיונות שהמוח שלנו יוצר, מקרין ומאמין בהם.
+\n
+אנו מזמינים אותך להשתמש באפליקציה שלנו כדי לחקור כיצד כולם באמת קיימים ולגלות את התובנות הללו בעצמך. תעשה חיים!
+    </string><string name="read_articles" translatable="false">קרא מאמרים</string><string name="view_videos" translatable="false">צפה בסרטונים</string><string name="ask_for_clarification" translatable="false">בקש הבהרה</string><string name="share_app" translatable="false">שתף אפליקציה</string><string name="close" translatable="false">סגור</string><string name="open" translatable="false">לִפְתוֹחַ</string><string name="take_quiz" translatable="false">חידון כיף</string><string name="finish" translatable="false">סיים</string><string name="your_score_" translatable="false">התוצאה שלך:</string><string name="your_answer_" translatable="false">תשובתך:</string><string name="correct_answer_" translatable="false">תשובה נכונה:</string><string name="question_skipped" translatable="false">השאלה נדחתה</string></file><file name="ic_launcher" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_notification" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/drawable-xxxhdpi/ic_notification.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="gotham_medium" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/font/gotham_medium.otf" qualifiers="" type="font"/><file name="gotham_bold" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/font/gotham_bold.TTF" qualifiers="" type="font"/><file name="gotham_light" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/font/gotham_light.otf" qualifiers="" type="font"/><file name="gotham_regular" path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/font/gotham_regular.otf" qualifiers="" type="font"/><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/values-ar/strings.xml" qualifiers="ar"><string name="app_name">Peace Booster</string><string name="exit">خروج</string><string name="note">  ملاحظة</string><string name="current_language">عربى</string><string name="english">English</string><string name="hebrew">עִברִית</string><string name="arabic">عربي</string><string name="chinese">汉语</string><string name="permission_denied">الإذن مرفوض</string><string name="add_photo"> ضيف/ي صورة    </string><string name="from_gallery">  معرض الصور</string><string name="take_photo">   خذ/ي صورة لأي شخص</string><string name="upload_success">تحميل بنجاح</string><string name="enter_photo_name"> حط/ي اسم للصورة</string><string name="save"> حفظ</string><string name="cancel">إلغاء</string><string name="photo_name">  اسم الصورة</string><string name="start">  يلّا</string><string name="retake"> خذ/ي صورة مرة تانية </string><string name="step1">١</string><string name="step2"> ٢</string><string name="step3"> ٣</string><string name="answerNo">  لأ</string><string name="answerYes">آه</string><string name="option_explain">إن أمكن، شوف/ي هالتلات نقاط اللي تحت عشان تعرف/ي إذا (--) ت/يمتلك كيانًا خاصًا ولا لا.</string><string-array name="step1_options">
+        <item>1. هل (--) كيان واحد؟  </item>
+        <item>2. هل (--) قادر/ة على إنتاج ذاتي؟</item>
+        <item>3. هل  هذا الشخص موجود ك (--) من غير الاسم \"(--)\"؟</item>
+    </string-array><string name="q3_dialog_alert"> إحساسك مزبوط، عشان هيك انت/ي ما بتحتاج/ي هالتطبيق. انت/ي وكل اشي في هالكون موجودين بنفس الطريقة، والكل بيتشارك نفس الكيان. عشان هيك، أي حرب بتدخلها/بتدخليها ضد أي شخص هي حرب بتدخلها/بتدخليها ضد نفسك! </string><string-array name="step1_first_questions">
+        <item>انت/ي شايف/ة أنه كيان (--) غير عن كيانك؟</item>
+        <item>يعني انت/ي شايف/ة ومقتنع/ة انه (--) عنده/ـا نفس الكيان الي عندك؟</item>
+        
+        <item>   انت/ي متأكد/ة 100% انه انت/ي و(--) عندكم نفس الكيان؟
+ يعني ما عندك شك انه انت/ي و(--) شخص واحد بنفس الكيان؟    </item>
+    </string-array><string name="step1_second_question">  حتى يكون عند (--) كيان مختلف عن اللي عندك، هو أو هي ت/يحتاج لأن ت/يمتلك كيان خاص. ولازم يكون هالكيان متفردًا، ذاتي الإنتاج، ولا يحتاج  لاسم.
+  </string><string name="step1_third_question_title"> هل (--)  كيان واحد؟</string><string-array name="step1_third_questions">
+        
+        <item>    انت/ي ملاحظ/ة انه (--) مخلوق/ة من أجزاء؟</item>
+        
+        <item>    شايف/ة المربعات الحمرا اللي بتعبّر على أجزاء من (--)؟ </item>
+        
+        <item> التحليل بيَّن أنه (--) مخلوق/ة من أجزاء انت/ي ما قدرت/ي تشوفها/تشوفيها. طيب عالأقل قادر/ة تشوف/ي انه (--) عنده/ـا جانبين يمين ويسار؟ </item>
+        
+        <item>  التحليل بيَّن انه (--) مخلوق/ة من أجزاء وأنصاص، واحنا عارفين انه اللي مخلوق من أجزاء وأنصاص ما بنعتبره كيان واحد. عشان هيك (--) مش كيان واحد. </item>
+        
+        <item>     لو (--) مخلوق/ة من أجزاء وأنصاص مختلفة، ممكن نعتبره/ـا كيان واحد؟  </item>
+        
+        <item>حقيقة انه (--) مخلوق/ة من أجزاء وأنصاص كتيرة ما بتناسب الاعتقاد اللي عندك انه (--) كيان واحد.
+        <br>انت/ي شايف/ة انه الكيان الواحد لازم يكون حرفياً واحد وما يكون عبارة عن أجزاء وأنصاص؟</br></item>
+
+    </string-array><string name="step1_incorrect_alert">عنجد؟! في هالحالة، فيه اشي غلط، بس ولا يهمك، ضلك مكمل/ة معنا.</string><string name="step1_incorrect_alert2">تمام. احنا عارفين أنه الاشي مش بسيط. خلينا نوضح الفكرة بطريقة تانية</string><string name="step1_incorrect_alert3">   احنا عارفين أنه الاشي مش بسيط، بس للأسف جوابك غلط</string><string name="complete_step1">مزبوط. (--) مش كيان واحد، عشان (--) مخلوق/ة من أجزاء وأنصاص.
+         <br> مبروووك! انت/ي هيك خلّصت/ي نقطة #1.  </br>
+     </string><string name="step2_title">هل (--) قادر على إنتاج ذاتي؟</string><string-array name="step2_questions">
+        
+        <item>  هل كان/ت (--) قادر/ة يجي/تجي على الدنيا من دون أم وأب؟  </item>
+        
+        <item>   هل (--)  جاب/ت حاله/ـا على الدنيا من دون أم وأب؟ </item>
+        
+        <item>   هل (--) جاب/ت حاله/ـا على الدنيا من دون أي عملية تلقيح اصطناعي، أو أي عمليات تانية؟ </item>
+        
+        <item>جوابك غلط! هذا الشخص ما أوجد نفسه بنفسه. من المستحيلات إنه أي كائن حي يوجد نفسه بنفسه بطبعيته.</item>
+
+    </string-array><string name="p4_disagree">   جوابك غلط!   أغلبك شوي، راجع/ي نقطة #2 </string><string name="step2_incorrect_alert">جوابك غلط!
+    احنا عارفين أنه الاشي مش بسيط. خلينا نوضح الفكرة بطريقة تانية.</string><string name="complete_step2">مزبوط. (--) مش قادر/ة ت/يوجد كياته/ا بنفسه/ا. ولا واحد بيقدر لحالو . كل الوجود بينتج الموجود.
+    <br> مبروووك! انت/ي هيك خلصت/ي نقطة #2!</br>
+    <br> انتقل/ي لنقطة #3.</br></string><string name="step3_title">هل بيقدر الشخص إنه يعيش من غير مسمى \"شخص\"؟</string><string-array name="step3_questions">
+        
+        <item>هل بيقدر هذا الشخص يوجد نفسه ك (--) من غير إنه يكون مسمى \"(--)\"؟</item>
+        
+        <item>. هل الناس بيعطوا مسميات لكل شيء؟</item>
+        
+        <item>    لو انت/ي ما سميت/ي حالك "(==)"، هل الناس رح تعرف شو تناديك/ي؟</item>
+        
+        <item>لو ما سميت هذا السخص \"(--)\"، هل كان/ت هيوجد/هتوجد نفسه/ا ك (--)؟</item>
+        
+        <item>لو كان هالشخص أصلاً (--)، هل من المنطقي أنك تسميه/ـا \"(--)\" مرة تانية؟</item>
+        
+        <item>     احنا ما بنسمي إلّا الأشياء اللي ملهاش أسماء عشان نسهل على حالنا. وبهالطريقة، بنقدر نعيش حياتنا بكل سهولة كعائلات ومجتمعات</item>
+        
+        <item>  غلط. بعينك الله، راجع/ي</item>
+    </string-array><string name="step3_incorrect_alert">   احنا عارفين إنه الاشي مش بسيط. عشان هيك، خلينا نوضح بطريقة تانية </string><string name="step3_incorrect_alert2"> احنا عارفين إنه الاشي مش بسيط. معلش، عيد/ي نقطة #1</string><string name="step3_incorrect_alert3"> احنا عارفين إنه الاشي مش بسيط، بس هانت. اصبر شوية؛ رح تعرف حقيقة كل اشي كمان شوية </string><string name="complete_step3">مزبوط! عشان تسهل/ي عحالك، انت/ي سميت/ي الشخص اللي في الصورة \"(--)\" بالزبط زي ما سميت/ي حالك \"(==)\". عشان هيك، (--) بيحتاج/بتحتاج لاسمه/ـا عشان يعيش/تعيش كـ \"(--)\".  هذا الشخص ما بيقدر يوجد كيانه زي (--) من غير الإسم.
+   <br> مبروووك! أنت هيك خلصت نقطة 3</br>   </string><string-array name="summary_texts">
+        
+        <item>من أول مبلّشت/ي، كانت وجهة نظرك انه يبدو عنده/ا (--) كيانه/ا الخاص  المختلف عن اللي عندك.</item>
+        
+        <item>   عشان يكون عند (--) كيان مختلف عن اللي عندك، لازم يكون/تكون:
+             <br> 1. كيان واحد </br>
+<br>2. قادرة على الإنتاج الذاتي</br>
+<br>3. موجود كـ (--) بدون تسمية "(--)".</br>
+المهم، انت/ي هلأ خلّصت/ي التلات خطوات بنجاح وعرفت/ي إنه العكس صحيح عن (--).        </item>
+        
+        <item>
+            انت/ي اكتشفت/ي إنه (--):
+            <br>1. مش كيان واحد </br>
+            <br>2.  غير قادر على الإنتاج الذاتي</br>
+            <br>3. بيحتاج الأسم \"(--)\" حتى  يكون  ك (--)</br>
+        </item>
+        
+        <item>الزبدة: : الظاهر  إلك إنه (--) عنده/ـا كيان مختلف عن اللي عندك، بس بالآخر طلع كيان (--) ما بيختلف عن كيانك والي أثبت إنه يعيش من دون كيان ذاتي. وهاد بيثبت كمان إنه أحاسيسنا بتكزب علينا عشان بدا إلك إنه (--) عنده/ـا كيان مختلف عن اللي عندك، بس بالآخر طلع عندكم كلكم نفس الكيان.</item>
+        
+        <item> عشان انت/ي وكل اشي في الكون،بالإضافة للكيان الغير مادي زي العقل والروح وغيرو،  موجودين بنفس الطريقة متل (--)، فهاد معناته إنه انت/ي و(--) بتتشاركوا نفس الشخص( نفس الكيان) كمان.</item>
+        
+        <item>  انت/ي و(--) موجودين بالدنيا بدون كيانات خاصة، فبنفهم إنكم بتتشاركوا نفس الكيان. عشان هيك، انت/ي (--)، و(--) هو/هي برضو انت/ي.</item>
+        
+        <item>  طب طالما انتوا بتتشاركوا نفس الكيان، يبقى شو الفرق بينكم؟</item>
+    </string-array><string name="summary_title">  ملخص اللي اكتشفناه: </string><string-array name="summary_questions">
+        <item>ما في أي فرق بينهم إلا في المسميات.
+وبعض الأسماء زي \“(--)\” و\”(==)\” و\”أنت\” و\”أنا\” و\”حدا\” و\”هُمَّا\” و\”هِيا\” و\”هُوا\” و\”إسرائيلي\” و\”فلسطيني\” أو أيّ أسماء تانية هي أسماء بتنعطى للناس اللي أصلًا بيتشاركوا نفس الكيان. واحنا بنعطي لكل الأشياء أي اسم أو مسمى  بنقدر نخترعه عشان نسهل على حالنا، زي ما شفت بعينيك في نقطة #3.
+        <br>وصلتك الفكرة؟</br>  </item>
+        
+        <item>أنت و(--) موجودين من غير كيان إلكم لإنكم  مليانين بأشياء تانية. هل بنقدر نتعامل مع أي حد منكم ككيان مع نفسه؟</item>
+
+        
+        <item>    الكيانات المنفردة هي بس اللي إلها وجود خاص فيها بناءً على اللي طلع معك بعد ما خلصت/ي نقطة #1.
+        <br>بدون التسمية \"(--)" و \"(==)\" مش  حيكون  في طريقة للتمييز بين شخص عن شخص تاني عشان الكل بيشتركوا بنفس الكيان . عشان هيك، وعشان يناسبكم، اخترعنا المسميات، عشان نقدر نفرق بين \"أنا\" و \"انت"\ </br>
+        </item>
+        
+        <item> صحيح! بما إنه انت/ي و(--) عندكم نفس الكيان (نفس الذات)، فأي حاجة بتنعمل ضد (--) فهيّ بتنعمل ضدك انت/ي كمان، والعكس صحيح.
+            <br>هلأ صرت/ي مقتنع/ة إنه أي حرب بتصير بين أي اتنين هي أصلاً حرب بين كل واحد وذاته؟
+</br>
+</item>
+        
+        <item>  بعينك الله، عيد/ي كل اشي من أول وجديد، وتأكد/ي وفكر/ي منيح قبل الاجابة على أيّ سؤال، وركز/ي في الصورة كلها عشان توصل/ي لحقيقة الموضوع كله بنفسك.</item>
+    </string-array><string name="p9_second_sentence"> هاي هيّ الحقائق اللي ما عمرها بتتغير، واللي بتشرح كيف الناس انوجدت بدون أي استثناءات
+        وصلتك الفكرة؟</string><string-array name="summary_finals">
+        
+        <item>  مزبوط. هلأ وصلتك الفكرة وفهمت/ي الزبدة واقتنعت/ي إنه إنهاء كل الصراعات أو الحروب، اللي انت/ي أو غيرك داخلينها، في مصلحتكم كلكم.</item>
+        
+        <item>  هلأ صار عندك يقين إنه:
+
+ <br>
+1. أحاسيسنا طلعت بتخدعنا كلنا.</br>
+             <br> \n
+2. فكرة إنه كل واحد عنده كيان خاص فيه ملهاش علاقة بالمرة في كيف كل واحد بينوجد. </br>
+
+<br> \n
+3. جهلنا بهالكلام هو السبب الوحيد لكل المشاكل والصراعات والحروب اللي بنعاني منها اليوم. </br>
+
+
+
+              <br>شكراً إلك! \n </br>
+              <br>مبروووك! انت/ي هيك أنهيت/ي النقاط التلاتة بالزبدة تاعتهم!   \n </br>
+        </item>
+    </string-array><string name="link_step1"><b><u> نقطة #1</u></b></string><string name="link_step2"><b><u> نقطة #2</u></b></string><string name="link_step3"><b><u> نقطة #3</u></b></string><string name="please_donate"> لو أمكن، اتبرع ولو بمبلغ صغير عشان نطور هالتطبيق ويقدر الكل ينزله ببلاش.</string><string name="go_to_point2">   انتقل/ي لنقطة #2</string><string name="go_to_point3">    انتقل/ي لنقطة #3</string><string name="title_notice">ملاحظة</string><string name="title_processing"> معالجة</string><string name="title_congratulation">   مبروووك</string><string name="title_incorrect"> جوابك غلط   </string><string name="title_username">  اسم المستخدم</string><string name="click_photo"> اضغط/ي عالصورة عشان تشوف/ي الأجزاء</string><string name="enter_username"> اسم المستخدم تبعك </string><string name="button_ok"> تم</string><string name="button_agree"> موافق/ة</string><string name="button_disagree"> مش موافق/ة</string><string name="button_next"> التالي</string><string name="button_start_over"> عيد/ي من أول وجديد</string><string name="buton_save"> حفظ</string><string name="button_donate"> اتبرع/ي</string><string name="go_to_conclusion">شوف/ي الزبدة </string><string name="link_step1_or"><b><u>أو النقطة رقم 1</u></b></string><string name="link_step2_or"><b><u>أو النقطة رقم 2</u></b></string><string name="link_step3_again"><b><u>النقطة رقم 3 مرة أخرى</u></b></string><string name="button_start_over_or"> عيد/ي من أول وجديد</string><string name="however">المهم،</string><string name="viceversa">والعكس صحيح.</string><string name="thankyou">شكراً إلك!</string><string name="narrative">
+        \nالحقيقة هي الي بتفصل بين الصراع والسلام وهي نفسها الحقيقة الي بنستوعبها بحواسنا غلط.
+        الحقيقة هدي هي السلام والساعدة لكل الأمم.\n
+        اعرف الحقيقة الي حواسك مخبياها عنك بتلات طرق سهلة.\n
+    </string><string name="button_another_picture">التقاط صورة أخرى</string><string name="share_senators">مشاركة مع أعضاء مجلس الشيوخ:</string><string name="share_congressman">مشاركة مع أعضاء الكونجرس:</string><string name="button_text">رسالة</string><string name="button_tweet">تغريدة</string><string name="official_rules"><u>قوانين المسابقة</u></string><string name="official_title">قوانين المسابقة</string><string name="official_content">
+إذا بتقدر تجيب دليل إنه في حدا بقدر يتحكم بذاته أو بملكها، راح تاخد عمل فني قيمته 12 ألف و500 دولار.
+بس الدليل لازم يكون صورة أصلية أو فيديو للهشخص ويكون مستوفي الثلاث شروط المكتوبة:\n\n
+
+لازم يكون الشخص الي عند كيان خاص: \n
+1.	كيان ذاتي (مش مجزء ولا مقسم لنصين)\n
+2.	عنده قدرة عالانتاج الذاتي (مش انه تم ايجاده)\n
+3.	مش لازم يكون إله اسم أو مسمى "الشخص" عشان يكون اله كيان أو موجود كشخص.\n\n
+
+راح نرسل العمل الفني الي قيمته 12 ألف و500 دولار مع شهادة تقييم فيه، بس بدك تغطي تكاليف الشحن والتأمين قبل ما يصدر العمل الفني، وكمان راح ننشر مقال عنك وكيف أنجزت المهمة بعد موافقتك، على موقعنا وحساباتنا على مواقع التوصل الاجتماعي.
+
+    </string><string name="read_articles">اقرأ المقالات</string><string name="view_videos">مشاهدة مقاطع الفيديو</string><string name="ask_for_clarification">اسال للتوضيح</string><string name="share_app">شارك التطبيق</string><string name="close">أغلق</string><string name="open">افتح</string><string name="take_quiz">مسابقة ممتعة</string><string name="finish">ينهي</string><string name="your_score_">درجاتك:</string><string name="your_answer_">اجابتك:</string><string name="correct_answer_">اجابة صحيحة:</string><string name="question_skipped">تم تخطي السؤال</string></file><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res/values-zh/strings.xml" qualifiers="zh"><string name="app_name">Peace Booster</string><string name="exit">完成</string><string name="note">注意</string><string name="current_language">汉语</string><string name="english">English</string><string name="hebrew">עִברִית</string><string name="arabic">عربى</string><string name="chinese">汉语</string><string name="permission_denied">不允許</string><string name="add_photo">加一張照片</string><string name="from_gallery">照片畫廊</string><string name="take_photo">拍一張別人的照片</string><string name="upload_success"> 成功</string><string name="enter_photo_name">為照片取名</string><string name="save">保存</string><string name="cancel">取消</string><string name="photo_name">給照片取名</string><string name="start">開始</string><string name="retake">重拍照片</string><string name="step1">1</string><string name="step2">2</string><string name="step3">3</string><string name="answerNo">否</string><string name="answerYes">是</string><string name="option_explain"> 逐一检查以上三点，看看(--)和你是否拥有个体存在。</string><string-array name="step1_options">
+        <item>(--)是一個單一的存在體嗎？</item>
+        <item>(--) 能够自行产生吗？</item>
+        <item>你和(--)需要你的思想标签才能作为不同的实体存在吗？</item>
+    </string-array><string name="q3_dialog_alert"> 你的感官功能正常，说明你有深刻的理解力，感觉未受破坏。
+\n
+考虑到包括(--)在内的所有生命体都是相同的普遍物质和非物质元素的表现，没有自我生成的能力；因此，每个人都是相同的，共享同一个起源。
+\n
+除了相对的差异，如“你”、“我”、“矮”或“高”这些通过我们的大脑发明和投射的	概念以外，人与人之间没有差异。
+这种认识是通向真正的和平与幸福的道路。
+\n
+        由于你和(--)都没有个体存在，任何针对(--)的行动都是针对你自己的行动，反		之亦然。
+\n
+        您可能不需要这个应用程序，但为了进一步理解，请随意使用。</string><string-array name="step1_first_questions">
+        
+        <item>你是否体验到你和(--)的存在是两种不同的存在？</item>
+        
+        <item> 你是否认为你所感知并体验到的(--)与你有相同存在？  </item>
+        
+        <item>  你是否绝对肯定你和(--)拥有相同的存在？</item> </string-array><string name="step1_second_question">   为了确认(--)和你拥有自己的存在，请考虑这三个关键性质。这些性质是对于(--)和你，作为个体存在的真实断言的必要条件。这意味着你们每个人都需要是一个单一而自行产生的实体，并且作为不同的存在而不被你的头脑贴上比如 \"(--)\" 和“你”的标签。</string><string name="step1_third_question_title"> (--)是单个实体吗？</string><string-array name="step1_third_questions">
+        
+        <item> 你能看出(--)不是一个实体吗？ </item>
+        
+        <item> 您看到红色方格标记的部分了吗？ </item>
+        
+        <item> 分析发现(--)不是一个单独的实体，而是由你似乎看不到的部分组成的。你至少能看出(--)是由左右两边组成的吗？</item>
+        
+        <item> 分析发现(--)不是一个单一的实体，而是由部分和半部分组成的。由部分和半部分组成的事物不是一个事物，因此不能当作一个。
+\n
+结论，(--)不是一个实体。
+</item>
+        
+        <item> 如果(--)不是一个实体，那么把(--)视作一个实体符合逻辑吗？</item>
+        
+        <item> (--)不是一个实体的事实与你认为(--)是一个实体的信念无法共存。你是否同意一个实体在数量上应该是一个？</item>
+
+
+    </string-array><string name="step1_incorrect_alert"> 真的吗？这样的话，您手机上的某些内容显示不正确，但请继续。 </string><string name="step1_incorrect_alert2"> 我们理解这并不容易。请承认你所看到的，而不是你所对人们所相信的。诚实的观察是认识这一事实的关键。</string><string name="step1_incorrect_alert3"> 我们理解这很有挑战性；但是，您的答案是错误的。 </string><string name="complete_step1"> •是，做对了！在第 1 步中，你已经认识到(--)不是一个单一的实体，而是由不同部分和半部分组成的复合体。
+\n
+通过承认这一点，你迈出了理解存在的真正本质的第一步。
+\n
+记住，(--)不是一个单一的实体，这种认识为下一步发现我们所有人共有的深刻的同一性和相互关联性奠定了基础。
+\n \n
+祝贺你！你已经完成了第一步。  </string><string name="step2_title"> (--)能够自行生成吗？</string><string-array name="step2_questions">
+        
+        <item> (--)是否自行生成了她/他的存在？</item>
+        
+        <item> (--)是否在没有父母的情况下自我生成？</item>
+        
+        <item> (--)是在没有任何人工实验室程序或其他过程的情况下自我生成的吗？</item>
+        
+        <item>這是不正確的。任何生命都不可能獨自存在，它需要有全部的生命才能產生任何東西。</item>
+    </string-array><string name="p4_disagree">不正確。請考慮重新檢查第二題或重新開始</string><string name="step2_incorrect_alert"> 我们知道这可能具有挑战性。让我们换个方式试试。</string><string name="complete_step2"> 恭喜你！第2步揭示了(--)并不是自我产生的，因为(--)缺乏任何可能自我产生的个体特性；相反，(--)是普遍性质及其无数不断变化的物理和非物理元素的体现。
+	•	\n 因此，(--)与你或任何人并无不同，反之亦然，因为每个人都是同一普遍性质的产物，而不是他们自己的产物。
+	•	\n 这种理解挑战了个体存在的概念，并强调了我们共有的普遍起源和本质。
+	•	\n 通过掌握这一事实，你为深入了解大多数人仍未意识到的存在本质铺平了道路。
+	•
+	•	        \n\n 恭喜你。你完成了步骤 #2！</string><string name="step3_title">(--)需要被命名嗎?</string><string-array name="step3_questions">
+        
+        <item> 这个人能在没有你脑海中\“(--)\”的标签的情况下，作为(--)存在吗？ </item>
+        
+        <item> 人类会给所有东西贴标签吗？ </item>
+        
+        <item> 如果你的思大脑没有把你的身体和大脑命名为“(==)”，人们会称呼你(==)吗？	</item>
+        
+        <item> 如果你不把这个人命名为\“(--)\”，他们对你而言会以(--)的身份存在吗？</item>
+        
+        <item> 如果这个人已经是(--)，再把已经是(--)的东西标为\“(--)\”有意义吗？ </item>
+        
+        <item>在你的大脑为了方便而创造并投射出\“(--)\”这个标签之前，这个人一直是没有任何标签的。这样，每个人都可以在概念中以\“(--)\”和“你”的概念中发挥作用。 </item>
+        
+        <item> 不正确。请考虑再次回顾步骤 #3，</item>
+    </string-array><string name="step3_incorrect_alert"> 我們知道這不容易。 讓我們換個方式試試。</string><string name="step3_incorrect_alert2"> 我們知道這不容易。 請重複第一題。</string><string name="step3_incorrect_alert3"> 我們知道這不容易，但你快完成了。
+        \n 現在請不要放棄；你很快就會瞭解到這一點的。</string><string name="complete_step3"> 正确。在步骤3中，你探索了你大脑贴标签的事实，并发现，如果没有你的脑海当中的\“(--)\”标签，照片中的人就不能作为(--)存在。
+	•	    \n 这种认识延伸到了你自身的存在，强调了心理标签在塑造感知和体验中的作用。
+	•	    \n 请记住，\“(--)\”只是你头脑中的一个构造。所有的标签都源于你的头脑，而不是你正在经历的任何物理形式的一面。
+	•	    \n 认识到这一点会对独立存在的概念提出挑战，因为人类的区别只存在于标签中。
+	•	    \n 反思一下你的经验是如何与这一基本真理相矛盾的。
+	•	   \n\n 恭喜你。你完成了步骤 #3 </string><string name="summary_title">這裡對所發現之事物的總結是： </string><string-array name="summary_texts">
+        
+        <item> 一开始，你说你感知和体验到(--)的存在和你的存在是两个不同的存在。</item>
+        
+        <item>要宣称真正的个体存在，(--)和你必须是两个不同的存在，因此你们每个都必须是：
+            \n
+           1. 一个实体。
+            \n
+           2. 能够自我生成。
+            \n
+           3. 作为(--)和你而存在，没有你脑海中的标签。
+            \n\n 然而，你成功地完成了这三个步骤，却发现(--)和你的情况恰恰相反。
+            </item>
+
+        
+        <item> 你发现(--)和你：
+           1. 不是一个实体。
+            \n
+           2. 无法自我生成。
+            \n
+           3. 需要你的脑海中\“(--)\”和\“你\”的标签，来作为(--)和你存在。
+
+           \n\n 这证明(--)和你没有自己的存在，而你的感官没有正确地显示这个事实。
+        </item>
+
+        
+        <item>  结论：在你看来，(--)和你似乎拥有不同的存在，但检验的时候，(--)和你并不如此。
+		\n 这证明了你的感官在欺骗你，因为(--)和你似乎拥有各自的存在，但事实并非如此。   </item>
+
+        
+        <item> 你和(--)，以及世界上的其他一切，都缺乏个体存在。
+		    \n 因此，把(--)和你看作两个不同的实体是不合逻辑的，因为你们都不是一个实体，而且你们都缺乏能够独立产生你们存在的个体本质。
+		    \n 你们都共享无数普遍元素的相同起源和本质，包括物质和非物质方面。
+		    \n 任何感知到的区别都没有不同的本质，因此都只是相对的，仅仅存在于概念标签中，如大脑创造的\“(--)\”、\“(==)\”、\“你\”、\“高\”、\“矮\”等，而我们的本质仍然是普遍共享的。 </item>
+        
+        <item> 你和(--)并不是两个截然不同的存在。你的身体和心灵并不是永久单一、无法自我生成的。每一个生命都是从同一个普遍本质中显现出来的，由物质和非物质元素组成，而不是自主起源。
+		\n
+		认识到每个人都有相同的普遍本质和起源，这就挑战了多重存在的概念，揭示了包罗万象的相同普遍存在。
+		\n
+		这种洞察消除了对于我们错误认知和相信的不同存在的误解。 </item>
+        
+        <item>  既然你和(--)都有相同的存在，为什么人类相信许多不同的存在，并把它们当作真实的体验?</item>
+    </string-array><string-array name="summary_questions">
+        
+        <item> 99普罗森特 的人类都没意识到所有人都在没有个体存在的情况下存在，而没有个体存在。然后我们的大脑发明了一些标签，比如\“(--)\”、\“(==)\”、\“你\”、\“我\”、\“他们\”、\“美国人\”、\“欧洲人\”、\“亚洲人\”、\“非洲人\”或\“无论什么\”。
+大脑将这些标签投射到人们身上，并错误地认为它们是关于每个人的事实。我们对各种标签的信仰改变了人们的真相，使他们看起来拥有与我们不同的存在，尽管每个人都缺乏个体存在。
+\n\n
+人与人之间的所有差异都是相对的，只存在于概念中，正如你在步骤 #3中发现的那样。
+
+ \n\n
+这些都是无可辩驳的事实，说明每个人都毫无例外地存在着。
+你明所有差异都是相对的，只存在于概念中，正如你在步骤 #3中发现的那样。
+
+ \n\n
+这些都是无可辩驳的事实，说明每个人都毫无例外地存在着。
+你明白了吗？白了吗？     </item>
+
+        
+        <item> (--)和你们的存在都不是独立的，因为你们都不是单一的实体，都不具备能够自我产生的个体本质；
+            相反，你们都有同一普遍性质的共同起源和本质，包含了物质和非物质元素，而不是自主起源。
+            \n\n
+            考虑到这一点，把(--)和你视为两个不同的存在合乎逻辑吗？</item>
+        
+        <item> 正如你在完成步骤 #1和步骤 #2时所学到的，能够自我生产（个体存在所需的特征）的单个实体是不存在的。认识到(--)和你缺乏个体存在，把你和(--)视为两个不同的实体就变得不合逻辑了。 </item>
+        
+        <item> 正确。你和(--)都缺乏个体存在，因为你们不是具有自我生成能力的单一实体。 相反，你们两个都是由无数物质和非物质元素组成的同一普遍本质的组成部分，而不是自主起源的。
+\n
+你们的起源和本质是相同的，任何感知到的区别都不属于任何个体；它们都是相对的，来自于你们心灵的概念化。
+
+\n 认识到这一点，任何针对(--)的行动本质上都是针对你自己的行动，反之亦然。
+            \n\n
+    你现在是否认识到，你们之间或其他人之间的任何冲突本质上都是针对自己的冲突？</item>
+        
+        <item> 花一点时间深刻反思每个问题。摒弃先入为主的观念的影响，设想所呈现的信息，以把握生活的事实和这一结论的真相。</item>
+    </string-array><string-array name="summary_finals">
+        
+        <item> 正确，恭喜！
+\n\n 通过探索存在的基本方面，你已经掌握了(--)和你拥有相同的起源和本质，没有任何个体本质。
+           \n 你们二者之间的任何区别都是相对的，仅存在于标签中。
+           \n 理解我们所有人共有的同一性，就消除了冲突和不幸的基础。
+           \n 认识到这一现实至关重要，因为你们俩或其他人之间的任何冲突从根本上说都是与自己的冲突。
+           \n
+           真正的和平与幸福正等待着那些理解并实践这一深刻理解的人。</item>
+        
+        <item> 现在，有了对人类感官欺骗了人类几个世纪的理解和证据，你认识到了这个盛行观点——即每个人都拥有自己的存在——的矛盾之处。
+            \n 这种无知助长了冲突、不幸和痛苦。
+            \n 接受这些正确的知识为你和这个世界铺就了一条通往无尽智慧、和平与幸福的最简单的道路。
+
+           \n\n 如果您相信这个应用程序有潜力打破自我制造冲突的无休止循环，请帮助我们传播这个消息。
+
+            \n 謝謝你們。
+
+            \n 
+            恭喜您！您已完成所有 3 个要点和结论！
+         \n\n
+请捐赠以改善并保持此应用程序对所有人免费。</item>
+    </string-array><string name="link_step1"><b><u> 問題#1 </u></b></string><string name="link_step2"><b><u>  問題#2</u></b></string><string name="link_step3"><b><u>  問題#3</u></b></string><string name="please_donate"> 請捐贈以改進和保持這個應用程式能免費給所有人。</string><string name="go_to_point2"> 進入第二個問題 </string><string name="go_to_point3">進入第三個問題</string><string name="title_notice">注意!</string><string name="title_processing">審閱..</string><string name="title_congratulation">恭喜!</string><string name="title_incorrect">"這是不正確的.</string><string name="title_username">使用者名!</string><string name="click_photo">點畫面找出那部份.</string><string name="enter_username">輸入你的使用者名</string><string name="button_ok">好</string><string name="button_agree">同意</string><string name="button_disagree">不同意</string><string name="button_next">下一個</string><string name="button_start_over">重新開始</string><string name="buton_save">存檔</string><string name="button_donate">捐款</string><string name="go_to_conclusion">進入結尾</string><string name="link_step1_or"><b><u>第一題</u></b></string><string name="link_step2_or"><b><u>第二題</u></b></string><string name="link_step3_again"><b><u>第三題重複一次</u></b></string><string name="button_start_over_or">或重新開始</string><string name="however">但是</string><string name="viceversa">反之亦然.</string><string name="thankyou">תודה לך</string><string name="narrative">
+     \n
+踏上旅程，去探索毫不费力就能过上平静、满足和快乐生活的秘诀。
+\n
+揭示超越你心灵欺骗的真理，这一真理拥有结束世间不公、战争和苦难的力量。
+\n
+揭开世界的真实面貌，理解你的思想在塑造这个世界中的作用。
+    </string><string name="button_another_picture">拍另一张照片</string><string name="share_senators">与参议员分享：</string><string name="share_congressman">与您的国会议员分享：</string><string name="button_text">文本</string><string name="button_tweet">鸣叫</string><string name="official_rules"><u> 这个应用程序的基础。</u></string><string name="official_title"> 这个应用程序的基础。</string><string name="official_content">
+这个应用程序的基础。
+
+乍一看，世界似乎充满了多样性。然而，关于每个人的不可否认的事实却对我们的日常认知和经验，即彼此是不同而独立的，提出了挑战和反驳。
+\n
+我们每个人都觉得自己与他人不同且独立，但这是事实还是幻觉？
+自己去寻找答案吧：
+\n\n
+一个人要想真正独立存在，必须满足三个标准：
+\n
+1. 统一性：人必须是一个单一的、不可分割的实体。如果他们不是，就不能被视为一个人。
+\n
+2. 独立性：人必须具有引起自身存在的独立本质。如果他们的存在依赖于其他一切，那么他们就缺乏使自己不同于他人的特质。
+\n
+3. 无概念存在：人的存在不可依赖于我们头脑中 "人 "的标签。如果他们只是作为一个概念而存在，那就意味着他们只是一个，存在于我们大脑创造、投射和相信的想法之中的人。
+\n\n
+我们邀请您使用我们的应用程序来探索每个人真实存在的方式，并亲自发现这些见解。玩得开心！
+\n\n
+    </string><string name="question_skipped" translatable="false">问题被跳过</string><string name="read_articles" translatable="false">阅读文章</string><string name="view_videos" translatable="false">观看视频</string><string name="ask_for_clarification" translatable="false">要求澄清</string><string name="share_app" translatable="false">分享应用</string><string name="close" translatable="false">关</string><string name="open" translatable="false">打开</string><string name="take_quiz" translatable="false">趣味测验</string><string name="finish" translatable="false">结束</string><string name="your_score_" translatable="false">你的分数：%d%d</string><string name="your_answer_" translatable="false">您的答案：%s</string><string name="correct_answer_" translatable="false">正确答案：%s</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release" generated-set="release$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/resValues/release"/><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/injectCrashlyticsMappingFileIdRelease"/><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/processReleaseGoogleServices"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/resValues/release"/><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/injectCrashlyticsMappingFileIdRelease"><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/injectCrashlyticsMappingFileIdRelease/values/com_google_firebase_crashlytics_mappingfileid.xml" qualifiers=""><string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string></file></source><source path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/processReleaseGoogleServices"><file path="/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/processReleaseGoogleServices/values/values.xml" qualifiers=""><string name="default_web_client_id" translatable="false">648181259163-mhekg84a79mbs3rfm6f5j1kvfvsucnu6.apps.googleusercontent.com</string><string name="gcm_defaultSenderId" translatable="false">648181259163</string><string name="google_api_key" translatable="false">AIzaSyA8XmJpCcWN_Pq9QV3qnMjaODaoYB23q6w</string><string name="google_app_id" translatable="false">1:648181259163:android:2f2fe9609a4137846b5f3e</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8XmJpCcWN_Pq9QV3qnMjaODaoYB23q6w</string><string name="google_storage_bucket" translatable="false">peace-booster.appspot.com</string><string name="project_id" translatable="false">peace-booster</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-injectCrashlyticsMappingFileIdRelease$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-injectCrashlyticsMappingFileIdRelease" generated-set="res-injectCrashlyticsMappingFileIdRelease$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-processReleaseGoogleServices$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-processReleaseGoogleServices" generated-set="res-processReleaseGoogleServices$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>

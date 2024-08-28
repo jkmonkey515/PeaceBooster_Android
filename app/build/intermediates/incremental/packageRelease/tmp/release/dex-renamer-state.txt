@@ -1,0 +1,10 @@
+#Sat Aug 24 12:05:04 PDT 2024
+base.0=/Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+base.2=/Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app/build/intermediates/dex/release/mergeDexRelease/classes3.dex
+path.0=classes.dex
+path.1=classes2.dex
+path.2=classes3.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

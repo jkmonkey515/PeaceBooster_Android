@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_activity_main.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/font_gotham_bold.TTF.flat",
+        "source": "com.alek.peacebooster.app-main-45:/font/gotham_bold.TTF"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable-xhdpi_ic_notification.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_view_finder.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_view_finder.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_drawer_header.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/drawer_header.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/anim_slide_down.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_red_blur_40.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/red_blur_40.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_activity_splash.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_splash.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/splash.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_dialog_show_image_part.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/dialog_show_image_part.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_dialog_bottom_main.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/dialog_bottom_main.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_dialog_camera.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/dialog_camera.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_baseline_close_24.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_logo.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_logo.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/anim_slide_from_left.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/anim/slide_from_left.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_summary_share.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_summary_share.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_item_question.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/item_question.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_summary_final.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_summary_final.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_toolbar.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_back.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_item_quiz.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/item_quiz.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/anim_slide_up.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_item_video.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/item_video.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_summary1.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_summary1.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/font_gotham_regular.otf.flat",
+        "source": "com.alek.peacebooster.app-main-45:/font/gotham_regular.otf"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/anim_slide_to_right.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/anim/slide_to_right.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_dialog_alert.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/dialog_alert.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_button_yes_default.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/button_yes_default.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_image_squares.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_image_squares.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_answer_yes.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/answer_yes.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_camera.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_quiz.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_quiz.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_ask.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_ask.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_step3.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_step3.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_dialog_ask_name.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/dialog_ask_name.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_web_donate.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_web_donate.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_quiz_results.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_quiz_results.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_dialog_alert2.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/dialog_alert2.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_official_rules.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_official_rules.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_dialog_scanner.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/dialog_scanner.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/anim_slide_to_left.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/anim/slide_to_left.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_quizzes.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_quizzes.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/anim_stay.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/anim/stay.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_summary2.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_summary2.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_articles.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_articles.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/font_gotham_medium.otf.flat",
+        "source": "com.alek.peacebooster.app-main-45:/font/gotham_medium.otf"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_button_yes_focused.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/button_yes_focused.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_quiz.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_image_square_item.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/image_square_item.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_videos.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_videos.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_read.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_read.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.alek.peacebooster.app-pngs-39:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_button_no_pressed.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/button_no_pressed.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_ask_entity.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_ask_entity.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_item_article.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_button_no_focused.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/button_no_focused.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_button_yes_pressed.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/button_yes_pressed.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_step1.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_step1.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_dialog_top.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/dialog_top.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable-hdpi_ic_notification.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_activity_languages.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/activity_languages.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable-mdpi_ic_notification.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_videos.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_videos.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_button_no_default.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/button_no_default.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_article_detail.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_article_detail.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/anim_slide_from_right.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/anim/slide_from_right.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_answer_no.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/answer_no.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_share.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_btn_round_border.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/btn_round_border.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_item_user_answer.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/item_user_answer.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/layout_fragment_step2.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/layout/fragment_step2.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/drawable_dialog_box.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/drawable/dialog_box.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/menu_menu_drawer.xml.flat",
+        "source": "com.alek.peacebooster.app-main-45:/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/font_gotham_light.otf.flat",
+        "source": "com.alek.peacebooster.app-main-45:/font/gotham_light.otf"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-release-44:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.alek.peacebooster.app-main-45:/mipmap-hdpi/ic_launcher.png"
+    }
+]
