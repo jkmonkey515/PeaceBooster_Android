@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.alek.peacebooster.fragment.steps.AskEntityFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="765dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/black_transparent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/txvQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|center"
+            android:background="@color/black_transparent"
+            android:fontFamily="@font/gotham_regular"
+            android:padding="10dp"
+            android:text="Does name appears to have a self different from yours?"
+            android:textColor="@color/white"
+            android:textSize="20sp"></TextView>
+
+        <ImageView
+            android:id="@+id/imvStep1Img"
+            android:layout_width="match_parent"
+            android:layout_height="680dp"
+            android:scaleType="fitXY" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="40dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tvOptionExplain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|center"
+            android:background="@color/black_transparent"
+            android:fontFamily="@font/gotham_medium"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:text="@string/option_explain"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnOption1_single"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/black_transparent"
+            android:drawableEnd="@drawable/ic_baseline_arrow_forward_ios_24"
+            android:drawablePadding="30dp"
+            android:fontFamily="@font/gotham_medium"
+            android:gravity="center_vertical"
+            android:paddingStart="12dp"
+            android:paddingEnd="12dp"
+            android:text="1. Is NAME a singular entity?"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="17sp" />
+
+        <Button
+            android:id="@+id/btnOption2_alone"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/black_transparent"
+            android:fontFamily="@font/gotham_medium"
+            android:gravity="center_vertical"
+            android:paddingStart="12dp"
+            android:paddingEnd="12dp"
+            android:text="2. Is NAME able of bring herself/himself into existence alone?"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="17sp" />
+
+        <Button
+            android:id="@+id/btnOption3_named"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/black_transparent"
+            android:fontFamily="@font/gotham_medium"
+            android:gravity="center_vertical"
+            android:paddingStart="12dp"
+            android:paddingEnd="12dp"
+            android:text="3. Is NAME not needing to be named?"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peace Booster</string>
+    <string  name="exit">完成</string>
+    <string  name="note">注意</string>
+
+    <string  name="current_language">汉语</string>
+    <string  name="english">English</string>
+    <string  name="hebrew">עִברִית</string>
+    <string  name="arabic">عربى</string>
+    <string  name="chinese">汉语</string>
+
+    <string  name="permission_denied">不允許</string>
+
+    <string  name="add_photo">加一張照片</string>
+    <string  name="from_gallery">照片畫廊</string>
+    <string  name="take_photo">拍一張別人的照片</string>
+    <string  name="upload_success"> 成功</string>
+    <string name="enter_photo_name">為照片取名</string>
+    <string  name="save">保存</string>
+    <string  name="cancel">取消</string>
+    <string name="photo_name">給照片取名</string>
+    <string  name="start">開始</string>
+    <string  name="retake">重拍照片</string>ß
+
+    <string  name="step1">1</string>
+    <string  name="step2">2</string>
+    <string  name="step3">3</string>
+
+    <string  name="answerNo">否</string>
+    <string  name="answerYes">是</string>
+
+    <!--  STEP 1 -->
+    <!--  STEP 1 Please examine each of the 3 points below-->
+    <string  name="option_explain"> 逐一检查以上三点，看看(--)和你是否拥有个体存在。</string>
+
+    <string-array  name="step1_options">
+        <item>(--)是一個單一的存在體嗎？</item>
+        <item>(--) 能够自行产生吗？</item>
+        <item>你和(--)需要你的思想标签才能作为不同的实体存在吗？</item>
+    </string-array>
+
+    <!-- Alert: Your senses are functioning correctly, thus you have no need for this app -->
+    <string  name="q3_dialog_alert"> 你的感官功能正常，说明你有深刻的理解力，感觉未受破坏。
+\n
+考虑到包括(--)在内的所有生命体都是相同的普遍物质和非物质元素的表现，没有自我生成的能力；因此，每个人都是相同的，共享同一个起源。
+\n
+除了相对的差异，如“你”、“我”、“矮”或“高”这些通过我们的大脑发明和投射的	概念以外，人与人之间没有差异。
+这种认识是通向真正的和平与幸福的道路。
+\n
+        由于你和(--)都没有个体存在，任何针对(--)的行动都是针对你自己的行动，反		之亦然。
+\n
+        您可能不需要这个应用程序，但为了进一步理解，请随意使用。</string>
+
+    <string-array  name="step1_first_questions">
+        <!--  Q1 -->
+        <item>你是否体验到你和(--)的存在是两种不同的存在？</item>
+        <!--  Q2 -->
+        <item> 你是否认为你所感知并体验到的(--)与你有相同存在？  </item>
+        <!--  Q3 -->
+        <item>  你是否绝对肯定你和(--)拥有相同的存在？</item> </string-array>
+    <!--  Q4 -->
+    <string  name="step1_second_question">   为了确认(--)和你拥有自己的存在，请考虑这三个关键性质。这些性质是对于(--)和你，作为个体存在的真实断言的必要条件。这意味着你们每个人都需要是一个单一而自行产生的实体，并且作为不同的存在而不被你的头脑贴上比如 \"(--)\" 和“你”的标签。</string>
+
+    <!--  Is (—) a single entity? -->
+
+    <string  name="step1_third_question_title"> (--)是单个实体吗？</string>
+
+    <string-array  name="step1_third_questions">
+        <!--  Q5 -->
+        <item> 你能看出(--)不是一个实体吗？ </item>
+        <!--  Q6 -->
+        <item> 您看到红色方格标记的部分了吗？ </item>
+        <!--  Q7 -->
+        <item> 分析发现(--)不是一个单独的实体，而是由你似乎看不到的部分组成的。你至少能看出(--)是由左右两边组成的吗？</item>
+        <!--  Q8 -->
+        <item> 分析发现(--)不是一个单一的实体，而是由部分和半部分组成的。由部分和半部分组成的事物不是一个事物，因此不能当作一个。
+\n
+结论，(--)不是一个实体。
+</item>
+        <!--  Q9 -->
+        <item> 如果(--)不是一个实体，那么把(--)视作一个实体符合逻辑吗？</item>
+        <!--  Q10 -->
+        <item> (--)不是一个实体的事实与你认为(--)是一个实体的信念无法共存。你是否同意一个实体在数量上应该是一个？</item>
+
+
+    </string-array>
+    <string  name="step1_incorrect_alert"> 真的吗？这样的话，您手机上的某些内容显示不正确，但请继续。 </string>
+    <string  name="step1_incorrect_alert2"> 我们理解这并不容易。请承认你所看到的，而不是你所对人们所相信的。诚实的观察是认识这一事实的关键。</string>
+    <string  name="step1_incorrect_alert3"> 我们理解这很有挑战性；但是，您的答案是错误的。 </string>
+    <string  name="complete_step1"> •是，做对了！在第 1 步中，你已经认识到(--)不是一个单一的实体，而是由不同部分和半部分组成的复合体。
+\n
+通过承认这一点，你迈出了理解存在的真正本质的第一步。
+\n
+记住，(--)不是一个单一的实体，这种认识为下一步发现我们所有人共有的深刻的同一性和相互关联性奠定了基础。
+\n \n
+祝贺你！你已经完成了第一步。  </string>
+
+
+    <!--  STEP 2  -->
+    <string  name="step2_title"> (--)能够自行生成吗？</string>
+
+    <string-array  name="step2_questions">
+        <!--  Q1 -->
+        <item> (--)是否自行生成了她/他的存在？</item>
+        <!--  Q2 -->
+        <item> (--)是否在没有父母的情况下自我生成？</item>
+        <!--  Q3 -->
+        <item> (--)是在没有任何人工实验室程序或其他过程的情况下自我生成的吗？</item>
+        <!--  P4 -->
+        <item>這是不正確的。任何生命都不可能獨自存在，它需要有全部的生命才能產生任何東西。</item>
+    </string-array>
+    <string  name="p4_disagree">不正確。請考慮重新檢查第二題或重新開始</string>
+
+    <string  name="step2_incorrect_alert"> 我们知道这可能具有挑战性。让我们换个方式试试。</string>
+    <string  name="complete_step2"> 恭喜你！第2步揭示了(--)并不是自我产生的，因为(--)缺乏任何可能自我产生的个体特性；相反，(--)是普遍性质及其无数不断变化的物理和非物理元素的体现。
+	•	\n 因此，(--)与你或任何人并无不同，反之亦然，因为每个人都是同一普遍性质的产物，而不是他们自己的产物。
+	•	\n 这种理解挑战了个体存在的概念，并强调了我们共有的普遍起源和本质。
+	•	\n 通过掌握这一事实，你为深入了解大多数人仍未意识到的存在本质铺平了道路。
+	•
+	•	        \n\n 恭喜你。你完成了步骤 #2！</string>
+
+    <!--  STEP 3 -->
+    <string  name="step3_title">(--)需要被命名嗎?</string>
+    <string-array  name="step3_questions">
+        <!--  Q1 -->
+        <item> 这个人能在没有你脑海中\“(--)\”的标签的情况下，作为(--)存在吗？ </item>
+        <!--  Q2 -->
+        <item> 人类会给所有东西贴标签吗？ </item>
+        <!--  Q3 -->
+        <item> 如果你的思大脑没有把你的身体和大脑命名为“(==)”，人们会称呼你(==)吗？	</item>
+        <!--  Q4 -->
+        <item> 如果你不把这个人命名为\“(--)\”，他们对你而言会以(--)的身份存在吗？</item>
+        <!--  Q5 -->
+        <item> 如果这个人已经是(--)，再把已经是(--)的东西标为\“(--)\”有意义吗？ </item>
+        <!--  Q6 -->
+        <item>在你的大脑为了方便而创造并投射出\“(--)\”这个标签之前，这个人一直是没有任何标签的。这样，每个人都可以在概念中以\“(--)\”和“你”的概念中发挥作用。 </item>
+        <!--  Q7 -->
+        <item> 不正确。请考虑再次回顾步骤 #3，</item>
+    </string-array>
+    <!--  We understand this is not easy. Let’s try this differently. -->
+    <string  name="step3_incorrect_alert"> 我們知道這不容易。 讓我們換個方式試試。</string>
+    <!--  We understand this is not easy. Please repeat  Point #1. -->
+    <string  name="step3_incorrect_alert2"> 我們知道這不容易。 請重複第一題。</string>
+    <!--  We understand this is not easy, but you are almost there. Please do not give up now; you will realize this truth very soon. -->
+    <string  name="step3_incorrect_alert3"> 我們知道這不容易，但你快完成了。
+        \n 現在請不要放棄；你很快就會瞭解到這一點的。</string>
+    <string  name="complete_step3"> 正确。在步骤3中，你探索了你大脑贴标签的事实，并发现，如果没有你的脑海当中的\“(--)\”标签，照片中的人就不能作为(--)存在。
+	•	    \n 这种认识延伸到了你自身的存在，强调了心理标签在塑造感知和体验中的作用。
+	•	    \n 请记住，\“(--)\”只是你头脑中的一个构造。所有的标签都源于你的头脑，而不是你正在经历的任何物理形式的一面。
+	•	    \n 认识到这一点会对独立存在的概念提出挑战，因为人类的区别只存在于标签中。
+	•	    \n 反思一下你的经验是如何与这一基本真理相矛盾的。
+	•	   \n\n 恭喜你。你完成了步骤 #3 </string>
+
+    <!--  Summary  -->
+    <!--  Here is a summary of what was discovered: -->
+    <string name="summary_title">這裡對所發現之事物的總結是： </string>
+
+    <string-array  name="summary_texts">
+        <!--  P1 -->
+        <item> 一开始，你说你感知和体验到(--)的存在和你的存在是两个不同的存在。</item>
+        <!--  P2 -->
+        <item>要宣称真正的个体存在，(--)和你必须是两个不同的存在，因此你们每个都必须是：
+            \n
+           1. 一个实体。
+            \n
+           2. 能够自我生成。
+            \n
+           3. 作为(--)和你而存在，没有你脑海中的标签。
+            \n\n 然而，你成功地完成了这三个步骤，却发现(--)和你的情况恰恰相反。
+            </item>
+
+        <!--  P3 -->
+        <item> 你发现(--)和你：
+           1. 不是一个实体。
+            \n
+           2. 无法自我生成。
+            \n
+           3. 需要你的脑海中\“(--)\”和\“你\”的标签，来作为(--)和你存在。
+
+           \n\n 这证明(--)和你没有自己的存在，而你的感官没有正确地显示这个事实。
+        </item>
+
+        <!--  P4 -->
+        <item>  结论：在你看来，(--)和你似乎拥有不同的存在，但检验的时候，(--)和你并不如此。
+		\n 这证明了你的感官在欺骗你，因为(--)和你似乎拥有各自的存在，但事实并非如此。   </item>
+
+        <!--  P6 -->
+        <item> 你和(--)，以及世界上的其他一切，都缺乏个体存在。
+		    \n 因此，把(--)和你看作两个不同的实体是不合逻辑的，因为你们都不是一个实体，而且你们都缺乏能够独立产生你们存在的个体本质。
+		    \n 你们都共享无数普遍元素的相同起源和本质，包括物质和非物质方面。
+		    \n 任何感知到的区别都没有不同的本质，因此都只是相对的，仅仅存在于概念标签中，如大脑创造的\“(--)\”、\“(==)\”、\“你\”、\“高\”、\“矮\”等，而我们的本质仍然是普遍共享的。 </item>
+        <!--  P7 -->
+        <item> 你和(--)并不是两个截然不同的存在。你的身体和心灵并不是永久单一、无法自我生成的。每一个生命都是从同一个普遍本质中显现出来的，由物质和非物质元素组成，而不是自主起源。
+		\n
+		认识到每个人都有相同的普遍本质和起源，这就挑战了多重存在的概念，揭示了包罗万象的相同普遍存在。
+		\n
+		这种洞察消除了对于我们错误认知和相信的不同存在的误解。 </item>
+        <!--  P8 -->
+        <item>  既然你和(--)都有相同的存在，为什么人类相信许多不同的存在，并把它们当作真实的体验?</item>
+    </string-array>
+
+    <string-array  name="summary_questions">
+        <!--  P9 -->
+        <item> 99普罗森特 的人类都没意识到所有人都在没有个体存在的情况下存在，而没有个体存在。然后我们的大脑发明了一些标签，比如\“(--)\”、\“(==)\”、\“你\”、\“我\”、\“他们\”、\“美国人\”、\“欧洲人\”、\“亚洲人\”、\“非洲人\”或\“无论什么\”。
+大脑将这些标签投射到人们身上，并错误地认为它们是关于每个人的事实。我们对各种标签的信仰改变了人们的真相，使他们看起来拥有与我们不同的存在，尽管每个人都缺乏个体存在。
+\n\n
+人与人之间的所有差异都是相对的，只存在于概念中，正如你在步骤 #3中发现的那样。
+
+ \n\n
+这些都是无可辩驳的事实，说明每个人都毫无例外地存在着。
+你明所有差异都是相对的，只存在于概念中，正如你在步骤 #3中发现的那样。
+
+ \n\n
+这些都是无可辩驳的事实，说明每个人都毫无例外地存在着。
+你明白了吗？白了吗？     </item>
+
+        <!--  P10 -->
+        <item> (--)和你们的存在都不是独立的，因为你们都不是单一的实体，都不具备能够自我产生的个体本质；
+            相反，你们都有同一普遍性质的共同起源和本质，包含了物质和非物质元素，而不是自主起源。
+            \n\n
+            考虑到这一点，把(--)和你视为两个不同的存在合乎逻辑吗？</item>
+        <!--  P12 -->
+        <item> 正如你在完成步骤 #1和步骤 #2时所学到的，能够自我生产（个体存在所需的特征）的单个实体是不存在的。认识到(--)和你缺乏个体存在，把你和(--)视为两个不同的实体就变得不合逻辑了。 </item>
+        <!--  P13 -->
+        <item> 正确。你和(--)都缺乏个体存在，因为你们不是具有自我生成能力的单一实体。 相反，你们两个都是由无数物质和非物质元素组成的同一普遍本质的组成部分，而不是自主起源的。
+\n
+你们的起源和本质是相同的，任何感知到的区别都不属于任何个体；它们都是相对的，来自于你们心灵的概念化。
+
+\n 认识到这一点，任何针对(--)的行动本质上都是针对你自己的行动，反之亦然。
+            \n\n
+    你现在是否认识到，你们之间或其他人之间的任何冲突本质上都是针对自己的冲突？</item>
+        <!--  P14 -->
+        <item> 花一点时间深刻反思每个问题。摒弃先入为主的观念的影响，设想所呈现的信息，以把握生活的事实和这一结论的真相。</item>
+    </string-array>
+
+    <string-array  name="summary_finals">
+        <!--  P15 -->
+        <item> 正确，恭喜！
+\n\n 通过探索存在的基本方面，你已经掌握了(--)和你拥有相同的起源和本质，没有任何个体本质。
+           \n 你们二者之间的任何区别都是相对的，仅存在于标签中。
+           \n 理解我们所有人共有的同一性，就消除了冲突和不幸的基础。
+           \n 认识到这一现实至关重要，因为你们俩或其他人之间的任何冲突从根本上说都是与自己的冲突。
+           \n
+           真正的和平与幸福正等待着那些理解并实践这一深刻理解的人。</item>
+        <!--  P16 -->
+        <item> 现在，有了对人类感官欺骗了人类几个世纪的理解和证据，你认识到了这个盛行观点——即每个人都拥有自己的存在——的矛盾之处。
+            \n 这种无知助长了冲突、不幸和痛苦。
+            \n 接受这些正确的知识为你和这个世界铺就了一条通往无尽智慧、和平与幸福的最简单的道路。
+
+           \n\n 如果您相信这个应用程序有潜力打破自我制造冲突的无休止循环，请帮助我们传播这个消息。
+
+            \n 謝謝你們。
+
+            \n <!--  Congratulations! You have completed all 3 Points and the Conclusions! -->
+            恭喜您！您已完成所有 3 个要点和结论！
+         \n\n
+请捐赠以改善并保持此应用程序对所有人免费。</item>
+    </string-array>
+
+    <string  name="link_step1"><b><u> 問題#1 </u></b></string>
+    <string  name="link_step2"><b><u>  問題#2</u></b></string>
+    <string  name="link_step3"><b><u>  問題#3</u></b></string>
+
+    <string  name="please_donate"> 請捐贈以改進和保持這個應用程式能免費給所有人。</string>
+
+    <string  name="go_to_point2"> 進入第二個問題 </string>
+    <string  name="go_to_point3">進入第三個問題</string>
+
+    <!-- New strings -->
+    <string name="title_notice">注意!</string>
+    <string name="title_processing">審閱..</string>
+    <string name="title_congratulation">恭喜!</string>
+    <string name="title_incorrect">"這是不正確的.</string>
+    <string name="title_username">使用者名!</string>
+
+    <string name="click_photo">點畫面找出那部份.</string>
+    <string name="enter_username">輸入你的使用者名</string>
+
+
+    <!--    Buttons -->
+    <string name="button_ok">好</string>
+    <string name="button_agree">同意</string>
+    <string name="button_disagree">不同意</string>
+    <string name="button_next">下一個</string>
+    <string name="button_start_over">重新開始</string>
+    <string name="buton_save">存檔</string>
+    <string name="button_donate">捐款</string>
+
+    <string name="go_to_conclusion">進入結尾</string>
+    <!-- newly added Sep-16 -->
+    <string name="link_step1_or"><b><u>第一題</u></b></string>
+    <string name="link_step2_or"><b><u>第二題</u></b></string>
+    <string name="link_step3_again"><b><u>第三題重複一次</u></b></string>
+    <string name="button_start_over_or">或重新開始</string>
+    <string name="however">但是</string>
+    <string name="viceversa">反之亦然.</string>
+
+    <!--    userd in SummaryFinalActivity -->
+    <string name="thankyou">תודה לך</string>
+    <!-- Welcome screen, embark on a jurney -->
+    <string name="narrative">
+     \n
+踏上旅程，去探索毫不费力就能过上平静、满足和快乐生活的秘诀。
+\n
+揭示超越你心灵欺骗的真理，这一真理拥有结束世间不公、战争和苦难的力量。
+\n
+揭开世界的真实面貌，理解你的思想在塑造这个世界中的作用。
+    </string>
+
+    <string name="button_another_picture">拍另一张照片</string>
+    <string name="share_senators">与参议员分享：</string>
+    <string name="share_congressman">与您的国会议员分享：</string>
+    <string name="button_text">文本</string>
+    <string name="button_tweet">鸣叫</string>
+
+    <string name="official_rules"><u> 这个应用程序的基础。</u></string>
+    <string name="official_title"> 这个应用程序的基础。</string>
+    <string name="official_content">
+这个应用程序的基础。
+
+乍一看，世界似乎充满了多样性。然而，关于每个人的不可否认的事实却对我们的日常认知和经验，即彼此是不同而独立的，提出了挑战和反驳。
+\n
+我们每个人都觉得自己与他人不同且独立，但这是事实还是幻觉？
+自己去寻找答案吧：
+\n\n
+一个人要想真正独立存在，必须满足三个标准：
+\n
+1. 统一性：人必须是一个单一的、不可分割的实体。如果他们不是，就不能被视为一个人。
+\n
+2. 独立性：人必须具有引起自身存在的独立本质。如果他们的存在依赖于其他一切，那么他们就缺乏使自己不同于他人的特质。
+\n
+3. 无概念存在：人的存在不可依赖于我们头脑中 "人 "的标签。如果他们只是作为一个概念而存在，那就意味着他们只是一个，存在于我们大脑创造、投射和相信的想法之中的人。
+\n\n
+我们邀请您使用我们的应用程序来探索每个人真实存在的方式，并亲自发现这些见解。玩得开心！
+\n\n
+    </string>
+    <string name="question_skipped" translatable="false">问题被跳过</string>
+    <string name="read_articles" translatable="false">阅读文章</string>
+    <string name="view_videos" translatable="false">观看视频</string>
+    <string name="ask_for_clarification" translatable="false">要求澄清</string>
+    <string name="share_app" translatable="false">分享应用</string>
+    <string name="close" translatable="false">关</string>
+    <string name="open" translatable="false">打开</string>
+    <string name="take_quiz" translatable="false">趣味测验</string>
+    <string name="finish" translatable="false">结束</string>
+    <string name="your_score_" translatable="false">你的分数：%d%d</string>
+    <string name="your_answer_" translatable="false">您的答案：%s</string>
+    <string name="correct_answer_" translatable="false">正确答案：%s</string>
+</resources>

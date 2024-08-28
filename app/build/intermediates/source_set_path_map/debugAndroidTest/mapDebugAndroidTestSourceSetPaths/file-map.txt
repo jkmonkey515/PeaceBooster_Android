@@ -1,0 +1,4 @@
+com.alek.peacebooster.test.app-androidTest-0 /Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app/build/generated/res/resValues/androidTest/debug
+com.alek.peacebooster.test.app-mergeDebugAndroidTestResources-1 /Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.alek.peacebooster.test.app-mergeDebugAndroidTestResources-2 /Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.alek.peacebooster.test.app-debugAndroidTest-3 /Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

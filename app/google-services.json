@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648181259163",
+    "project_id": "peace-booster",
+    "storage_bucket": "peace-booster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648181259163:android:2f2fe9609a4137846b5f3e",
+        "android_client_info": {
+          "package_name": "com.alek.peacebooster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648181259163-mhekg84a79mbs3rfm6f5j1kvfvsucnu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XmJpCcWN_Pq9QV3qnMjaODaoYB23q6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648181259163-mhekg84a79mbs3rfm6f5j1kvfvsucnu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_transparent"
+    tools:context="com.alek.peacebooster.fragment.main.CameraFragment">
+
+    <FrameLayout
+        android:id="@+id/lyTakePhoto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:background="@color/black_transparent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|center"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:layout_marginStart="40dp"
+                    android:layout_marginEnd="40dp"
+                    android:textColor="@color/white"
+                    android:textSize="17sp"
+                    android:text="@string/narrative"
+                    android:fontFamily="@font/gotham_regular">
+                </TextView>
+
+<!--                <TextView-->
+<!--                    android:id="@+id/txvOfficial"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:gravity="center"-->
+<!--                    android:paddingTop="12dp"-->
+<!--                    android:paddingLeft="12dp"-->
+<!--                    android:paddingStart="12dp"-->
+<!--                    android:textSize="20sp"-->
+<!--                    android:textColor="@color/colorPrimary"-->
+<!--                    android:text="@string/official_rules"-->
+<!--                    android:fontFamily="@font/gotham_regular">-->
+<!--                </TextView>-->
+
+                <TextView
+                    android:id="@+id/showOfficial"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/official_rules"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/gotham_regular"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnTakePhoto"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="40dp"
+                    android:layout_marginStart="40dp"
+                    android:layout_marginEnd="40dp"
+                    android:visibility="visible"
+                    android:background="@drawable/btn_round_border"
+                    android:text="@string/take_photo"
+                    android:fontFamily="@font/gotham_regular"
+                    android:textColor="@color/white"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+
+
+        <RelativeLayout
+            android:id="@+id/lyImageSet"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imvBuildingImg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                android:scaleType="fitXY" />
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnRetakePhoto"
+                android:layout_width="150dp"
+                android:visibility="visible"
+                android:layout_height="60dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/btn_round_border"
+                android:text="@string/retake"
+                android:fontFamily="@font/gotham_regular"
+                android:textColor="@color/white"
+                android:layout_alignParentBottom="true"
+                tools:ignore="MissingConstraints"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnStart"
+                android:layout_width="150dp"
+                android:visibility="visible"
+                android:layout_height="60dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/btn_round_border"
+                android:text="@string/start"
+                android:fontFamily="@font/gotham_regular"
+                android:textColor="@color/white"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                tools:ignore="MissingConstraints"/>
+
+        </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

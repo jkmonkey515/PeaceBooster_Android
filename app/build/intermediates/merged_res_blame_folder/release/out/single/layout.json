@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/dialog_alert2.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/dialog_alert2.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_web_donate.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_web_donate.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_summary2.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_summary2.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/toolbar.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/activity_languages.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/activity_languages.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/image_square_item.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/image_square_item.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/item_user_answer.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/item_user_answer.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_official_rules.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_official_rules.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_videos.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_videos.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/dialog_alert.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/dialog_alert.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_image_squares.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_image_squares.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_summary_share.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_summary_share.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/item_article.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_ask_entity.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_ask_entity.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/item_video.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/item_video.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_quiz_results.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_quiz_results.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_step1.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_step1.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_quiz.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/drawer_header.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/drawer_header.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/dialog_scanner.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/dialog_scanner.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/item_quiz.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/item_quiz.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_step3.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_step3.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_quizzes.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_quizzes.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/activity_main.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_article_detail.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_article_detail.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/dialog_show_image_part.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/dialog_show_image_part.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/item_question.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/item_question.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_step2.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_step2.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_articles.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_articles.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/activity_splash.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_summary1.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_summary1.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_summary_final.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_summary_final.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/fragment_camera.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/dialog_ask_name.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/dialog_ask_name.xml"
+    },
+    {
+        "merged": "com.alek.peacebooster.app-mergeReleaseResources-24:/layout/dialog_camera.xml",
+        "source": "com.alek.peacebooster.app-main-26:/layout/dialog_camera.xml"
+    }
+]

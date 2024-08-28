@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app"
+    name=":app"
+    type="APP"
+    maven="PeaceBooster:app:unspecified"
+    agpVersion="8.5.1"
+    buildFolder="build"
+    bootClassPath="/Users/simon/Library/Android/sdk/platforms/android-34/android.jar:/Users/simon/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,4 @@
+#Sat Aug 24 11:49:11 PDT 2024
+base.0=/Users/simon/Desktop/PEACE BOOSTER ANDROID/peace-booster_android_July16_24 /app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

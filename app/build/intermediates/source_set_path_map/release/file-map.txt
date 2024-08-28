@@ -1,0 +1,28 @@
+com.alek.peacebooster.app-jetified-play-services-basement-17.0.0-0 C:\Users\istar\.gradle\caches\transforms-3\1d836b80907436c99860bc097d1e87c6\transformed\jetified-play-services-basement-17.0.0\res
+com.alek.peacebooster.app-jetified-viewpager2-1.0.0-1 C:\Users\istar\.gradle\caches\transforms-3\23a1f9b685a5de7d35d8ea11fcc43df7\transformed\jetified-viewpager2-1.0.0\res
+com.alek.peacebooster.app-core-1.5.0-2 C:\Users\istar\.gradle\caches\transforms-3\23b849acbcccceb15fd65cbb2b54c8b6\transformed\core-1.5.0\res
+com.alek.peacebooster.app-lifecycle-viewmodel-2.3.1-3 C:\Users\istar\.gradle\caches\transforms-3\23d2c4b73ba03c1c2d874f96f0e5c5d9\transformed\lifecycle-viewmodel-2.3.1\res
+com.alek.peacebooster.app-jetified-appcompat-resources-1.3.1-4 C:\Users\istar\.gradle\caches\transforms-3\2651f01cb248456ba8ab4742cec0ae19\transformed\jetified-appcompat-resources-1.3.1\res
+com.alek.peacebooster.app-jetified-glide-4.12.0-5 C:\Users\istar\.gradle\caches\transforms-3\2a697f698da75b797c77f22ef60f097d\transformed\jetified-glide-4.12.0\res
+com.alek.peacebooster.app-cardview-1.0.0-6 C:\Users\istar\.gradle\caches\transforms-3\41e61b20017bf40bc9e7c274f68bc372\transformed\cardview-1.0.0\res
+com.alek.peacebooster.app-lifecycle-runtime-2.3.1-7 C:\Users\istar\.gradle\caches\transforms-3\786b3969f28fd9a24b5ae4fea0dfa3a0\transformed\lifecycle-runtime-2.3.1\res
+com.alek.peacebooster.app-recyclerview-1.1.0-8 C:\Users\istar\.gradle\caches\transforms-3\9884e0566fe70c8bc7d4ce6835ced0c1\transformed\recyclerview-1.1.0\res
+com.alek.peacebooster.app-constraintlayout-2.1.1-9 C:\Users\istar\.gradle\caches\transforms-3\98f2054673909aeab015dd9d64879bc6\transformed\constraintlayout-2.1.1\res
+com.alek.peacebooster.app-material-1.4.0-10 C:\Users\istar\.gradle\caches\transforms-3\9c089a5bdb588d3a6b1c8807a98b1755\transformed\material-1.4.0\res
+com.alek.peacebooster.app-jetified-savedstate-1.1.0-11 C:\Users\istar\.gradle\caches\transforms-3\a5437e47ecb6978772ffeaf040c03aa0\transformed\jetified-savedstate-1.1.0\res
+com.alek.peacebooster.app-appcompat-1.3.1-12 C:\Users\istar\.gradle\caches\transforms-3\be585d15e518a8425e0e8b6bcd446843\transformed\appcompat-1.3.1\res
+com.alek.peacebooster.app-jetified-firebase-messaging-21.0.0-13 C:\Users\istar\.gradle\caches\transforms-3\c532251b9b5eb6501b2c665034cbf72c\transformed\jetified-firebase-messaging-21.0.0\res
+com.alek.peacebooster.app-transition-1.2.0-14 C:\Users\istar\.gradle\caches\transforms-3\d17f4aa3452d5acbfe4c02d78cc80549\transformed\transition-1.2.0\res
+com.alek.peacebooster.app-fragment-1.3.6-15 C:\Users\istar\.gradle\caches\transforms-3\d391ef99d74314c97f8a37a6a4e62344\transformed\fragment-1.3.6\res
+com.alek.peacebooster.app-jetified-play-services-base-17.0.0-16 C:\Users\istar\.gradle\caches\transforms-3\d7188bcbe9c5b72f179c5a54c77348df\transformed\jetified-play-services-base-17.0.0\res
+com.alek.peacebooster.app-coordinatorlayout-1.1.0-17 C:\Users\istar\.gradle\caches\transforms-3\d9709793a8544770e174f262cd57a6e5\transformed\coordinatorlayout-1.1.0\res
+com.alek.peacebooster.app-res-18 D:\2. AndroidProjects\PeaceBooster_bit\app\build\generated\crashlytics\res\release
+com.alek.peacebooster.app-google-services-19 D:\2. AndroidProjects\PeaceBooster_bit\app\build\generated\res\google-services\release
+com.alek.peacebooster.app-pngs-20 D:\2. AndroidProjects\PeaceBooster_bit\app\build\generated\res\pngs\release
+com.alek.peacebooster.app-resValues-21 D:\2. AndroidProjects\PeaceBooster_bit\app\build\generated\res\resValues\release
+com.alek.peacebooster.app-rs-22 D:\2. AndroidProjects\PeaceBooster_bit\app\build\generated\res\rs\release
+com.alek.peacebooster.app-mergeReleaseResources-23 D:\2. AndroidProjects\PeaceBooster_bit\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.alek.peacebooster.app-mergeReleaseResources-24 D:\2. AndroidProjects\PeaceBooster_bit\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.alek.peacebooster.app-merged_res-25 D:\2. AndroidProjects\PeaceBooster_bit\app\build\intermediates\merged_res\release
+com.alek.peacebooster.app-main-26 D:\2. AndroidProjects\PeaceBooster_bit\app\src\main\res
+com.alek.peacebooster.app-release-27 D:\2. AndroidProjects\PeaceBooster_bit\app\src\release\res

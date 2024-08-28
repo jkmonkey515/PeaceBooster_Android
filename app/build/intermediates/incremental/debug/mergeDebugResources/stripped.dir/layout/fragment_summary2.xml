@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.alek.peacebooster.fragment.summary.Summary2Fragment">
+
+    <ImageView
+        android:id="@+id/imvQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="64dp"
+        android:layout_marginBottom="74dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txvSummary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:background="@color/black_transparent"
+            android:textSize="20sp"
+            android:text="The only difference between you are the names that were assigned to you.  Names are given to all things only for the sake of convenience. As you discovered in"
+            android:fontFamily="@font/gotham_regular"/>
+
+        <TextView
+            android:id="@+id/txvLink"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:background="@color/black_transparent"
+            android:padding="5dp"
+            android:textSize="20sp"
+            android:text="@string/link_step3"
+            android:fontFamily="@font/gotham_regular" />
+
+        <TextView
+            android:id="@+id/txvEnding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:background="@color/black_transparent"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:text="@string/p9_second_sentence"
+            android:fontFamily="@font/gotham_regular" />
+
+        <LinearLayout
+            android:id="@+id/lyOptions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvLinkStep1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start|center"
+                android:padding="5dp"
+                android:textColor="@color/white"
+                android:background="@color/black_transparent"
+                android:textSize="20sp"
+                android:text="@string/link_step1"
+                android:fontFamily="@font/gotham_regular"/>
+
+            <TextView
+                android:id="@+id/tvLinkStep2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start|center"
+                android:padding="5dp"
+                android:background="@color/black_transparent"
+                android:fontFamily="@font/gotham_regular"
+                android:text="@string/link_step2"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvLinkStep3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start|center"
+                android:padding="5dp"
+                android:textColor="@color/white"
+                android:background="@color/black_transparent"
+                android:textSize="20sp"
+                android:text="@string/link_step3"
+                android:fontFamily="@font/gotham_regular"/>
+
+            <TextView
+                android:id="@+id/tvLinkStartOver"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start|center"
+                android:padding="5dp"
+                android:textColor="@color/white"
+                android:background="@color/black_transparent"
+                android:textSize="20sp"
+                android:text="@string/button_start_over_or"
+                android:fontFamily="@font/gotham_regular"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lyButtons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal|bottom">
+
+        <Button
+            android:id="@+id/btnNo"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="44dp"
+            android:layout_marginRight="24dp"
+            android:layout_marginEnd="24dp"
+            android:textColor="@android:color/white"
+            android:text="@string/answerNo"
+            android:fontFamily="@font/gotham_medium"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:background="@drawable/btn_round_border"
+            android:layout_gravity="center_horizontal|bottom"/>
+
+        <Button
+            android:id="@+id/btnYes"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="44dp"
+            android:textColor="@android:color/white"
+            android:text="@string/answerYes"
+            android:fontFamily="@font/gotham_medium"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:background="@drawable/btn_round_border"
+            android:layout_gravity="center_horizontal|bottom"/>
+    </LinearLayout>
+
+</FrameLayout>

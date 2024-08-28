@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/itemArticles"
+        android:title="@string/read_articles"
+        android:icon="@drawable/ic_read"/>
+
+    <item android:id="@+id/itemVideos"
+        android:title="@string/view_videos"
+        android:icon="@drawable/ic_videos"/>
+
+    <item android:id="@+id/itemQuizzes"
+        android:title="@string/take_quiz"
+        android:icon="@drawable/ic_quiz"/>
+
+    <item android:id="@+id/itemAsk"
+        android:title="@string/ask_for_clarification"
+        android:icon="@drawable/ic_ask"/>
+
+    <item android:id="@+id/itemShare"
+        android:title="@string/share_app"
+        android:icon="@drawable/ic_share"/>
+
+</menu>
