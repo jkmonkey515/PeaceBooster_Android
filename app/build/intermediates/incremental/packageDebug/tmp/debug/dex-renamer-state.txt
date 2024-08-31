@@ -1,14 +1,14 @@
-#Wed Aug 28 08:22:56 CST 2024
-base.0=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
-base.3=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
-base.4=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
-base.5=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
-base.6=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
-base.7=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
-base.8=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.9=/Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+#Sat Aug 31 08:27:45 CST 2024
+base.0=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.3=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+base.4=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.5=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+base.6=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.7=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+base.8=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.9=/Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=2/classes.dex
