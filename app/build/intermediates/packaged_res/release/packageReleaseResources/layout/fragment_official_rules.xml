@@ -20,7 +20,7 @@
         <TextView
             android:id="@+id/txvOfficial"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_gravity="start|center"
             android:background="@color/mainColor"
             android:fontFamily="@font/gotham_regular"

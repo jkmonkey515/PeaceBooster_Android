@@ -34,7 +34,6 @@ import com.alek.peacebooster.fragment.BaseFragment;
 
 import java.io.IOException;
 
-
 public class CameraFragment extends BaseFragment {
 
     Dialog camera_dialog;
@@ -89,7 +88,7 @@ public class CameraFragment extends BaseFragment {
         mBinding.showOfficial.setOnClickListener(view -> setNextFragment(new OfficialRulesFragment()));
 
         mBinding.btnTakePhoto.setOnClickListener(view -> setVerifiedDialog());
-        mBinding.btnTakePhoto.setOnClickListener(view -> setVerifiedDialog());
+        mBinding.btnRetakePhoto.setOnClickListener(view -> setVerifiedDialog());
 
         mBinding.btnStart.setOnClickListener(view -> {
             String name = getPhotoName();
@@ -99,6 +98,7 @@ public class CameraFragment extends BaseFragment {
                 AskNameDialog();
             }
         });
+
         setTitle(R.string.app_name);
         return mBinding.getRoot();
     }
