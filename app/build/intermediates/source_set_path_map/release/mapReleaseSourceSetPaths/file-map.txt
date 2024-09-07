@@ -1,47 +1,47 @@
-com.alek.peacebooster.app-jetified-startup-runtime-1.1.1-0 /Users/iosdev/.gradle/caches/transforms-4/13bea1144068d17bb01229ad514ee41b/transformed/jetified-startup-runtime-1.1.1/res
-com.alek.peacebooster.app-core-runtime-2.2.0-1 /Users/iosdev/.gradle/caches/transforms-4/20db90b7691a1c94734b0e7598e0e212/transformed/core-runtime-2.2.0/res
-com.alek.peacebooster.app-jetified-glide-4.16.0-2 /Users/iosdev/.gradle/caches/transforms-4/23588c1f203f257bf5c36c9914c32b1d/transformed/jetified-glide-4.16.0/res
-com.alek.peacebooster.app-jetified-play-services-base-18.0.1-3 /Users/iosdev/.gradle/caches/transforms-4/2ea42eaabdab7741f3fd0cca4f3269ef/transformed/jetified-play-services-base-18.0.1/res
-com.alek.peacebooster.app-jetified-activity-1.8.0-4 /Users/iosdev/.gradle/caches/transforms-4/31195a463a1223616076876abbb4506d/transformed/jetified-activity-1.8.0/res
-com.alek.peacebooster.app-jetified-datastore-preferences-1.0.0-5 /Users/iosdev/.gradle/caches/transforms-4/3b919b4b6874bd32cafc913db903e5b3/transformed/jetified-datastore-preferences-1.0.0/res
-com.alek.peacebooster.app-transition-1.5.0-6 /Users/iosdev/.gradle/caches/transforms-4/3dff0b933fa75ffdcf274e42762198af/transformed/transition-1.5.0/res
-com.alek.peacebooster.app-jetified-ads-adservices-1.0.0-beta05-7 /Users/iosdev/.gradle/caches/transforms-4/40ef508781131375646202fc9352de07/transformed/jetified-ads-adservices-1.0.0-beta05/res
-com.alek.peacebooster.app-appcompat-1.7.0-8 /Users/iosdev/.gradle/caches/transforms-4/4f5f208e288c1a1813987202da8e17dc/transformed/appcompat-1.7.0/res
-com.alek.peacebooster.app-jetified-lifecycle-process-2.6.2-9 /Users/iosdev/.gradle/caches/transforms-4/54248e98f28b08b5f1f5eeaabdb56bd2/transformed/jetified-lifecycle-process-2.6.2/res
-com.alek.peacebooster.app-drawerlayout-1.1.1-10 /Users/iosdev/.gradle/caches/transforms-4/562a8d4f8e0e687bf4c7b223e2c5c294/transformed/drawerlayout-1.1.1/res
-com.alek.peacebooster.app-coordinatorlayout-1.1.0-11 /Users/iosdev/.gradle/caches/transforms-4/575885fbac5b266be74daeed91579d50/transformed/coordinatorlayout-1.1.0/res
-com.alek.peacebooster.app-recyclerview-1.1.0-12 /Users/iosdev/.gradle/caches/transforms-4/5d2fbb0b48cc024854bf4b8c11f3b9bc/transformed/recyclerview-1.1.0/res
-com.alek.peacebooster.app-jetified-emoji2-views-helper-1.3.0-13 /Users/iosdev/.gradle/caches/transforms-4/5dd0aad9e787db0ce6f0ee47fbaf1c34/transformed/jetified-emoji2-views-helper-1.3.0/res
-com.alek.peacebooster.app-jetified-profileinstaller-1.3.1-14 /Users/iosdev/.gradle/caches/transforms-4/6e4a538349e8600b1b0b67eb7c8e7f18/transformed/jetified-profileinstaller-1.3.1/res
-com.alek.peacebooster.app-lifecycle-livedata-core-2.6.2-15 /Users/iosdev/.gradle/caches/transforms-4/6f0af99277e3d78c5489c5f4d02c7637/transformed/lifecycle-livedata-core-2.6.2/res
-com.alek.peacebooster.app-jetified-firebase-common-21.0.0-16 /Users/iosdev/.gradle/caches/transforms-4/720bb58bacd8b354fc30615cedf38c38/transformed/jetified-firebase-common-21.0.0/res
-com.alek.peacebooster.app-jetified-emoji2-1.3.0-17 /Users/iosdev/.gradle/caches/transforms-4/73783fd944a89dbf1f0927a938f71a3a/transformed/jetified-emoji2-1.3.0/res
-com.alek.peacebooster.app-cardview-1.0.0-18 /Users/iosdev/.gradle/caches/transforms-4/73c25641af20c469758ac802b1953a48/transformed/cardview-1.0.0/res
-com.alek.peacebooster.app-lifecycle-runtime-2.6.2-19 /Users/iosdev/.gradle/caches/transforms-4/79b5e049e553b2d8d077a9e4ad12acca/transformed/lifecycle-runtime-2.6.2/res
-com.alek.peacebooster.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-20 /Users/iosdev/.gradle/caches/transforms-4/7ca5fd47e644dcdfbf3c795874417b34/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
-com.alek.peacebooster.app-jetified-datastore-1.0.0-21 /Users/iosdev/.gradle/caches/transforms-4/7ec54bf20883108da7e4c5c1c0e93a7c/transformed/jetified-datastore-1.0.0/res
-com.alek.peacebooster.app-jetified-firebase-crashlytics-19.0.3-22 /Users/iosdev/.gradle/caches/transforms-4/84719f405a033279fa1d80841a4e6da7/transformed/jetified-firebase-crashlytics-19.0.3/res
-com.alek.peacebooster.app-lifecycle-livedata-2.6.2-23 /Users/iosdev/.gradle/caches/transforms-4/8cf0b82eae0af4ef26b4986146e8ef3c/transformed/lifecycle-livedata-2.6.2/res
-com.alek.peacebooster.app-jetified-ads-adservices-java-1.0.0-beta05-24 /Users/iosdev/.gradle/caches/transforms-4/9ba3687ce2c99adf61a1ee8ddbba4e25/transformed/jetified-ads-adservices-java-1.0.0-beta05/res
-com.alek.peacebooster.app-jetified-core-ktx-1.13.0-25 /Users/iosdev/.gradle/caches/transforms-4/a00a85d87199262cf1a20769f3ad807a/transformed/jetified-core-ktx-1.13.0/res
-com.alek.peacebooster.app-jetified-play-services-measurement-api-22.1.0-26 /Users/iosdev/.gradle/caches/transforms-4/a871da2179970def1f89efcbea1371f6/transformed/jetified-play-services-measurement-api-22.1.0/res
-com.alek.peacebooster.app-jetified-viewpager2-1.0.0-27 /Users/iosdev/.gradle/caches/transforms-4/ab6ab7f35d73122837da8a0af5a15cc8/transformed/jetified-viewpager2-1.0.0/res
-com.alek.peacebooster.app-constraintlayout-2.1.4-28 /Users/iosdev/.gradle/caches/transforms-4/c00d4fbf5e88fbbf3b0a549c3e3a3177/transformed/constraintlayout-2.1.4/res
-com.alek.peacebooster.app-material-1.12.0-29 /Users/iosdev/.gradle/caches/transforms-4/c08bc395c6050bf3ef07578a961c1147/transformed/material-1.12.0/res
-com.alek.peacebooster.app-jetified-savedstate-1.2.1-30 /Users/iosdev/.gradle/caches/transforms-4/c22b84788918e3e5bb5b5bab2cc48a97/transformed/jetified-savedstate-1.2.1/res
-com.alek.peacebooster.app-core-1.13.0-31 /Users/iosdev/.gradle/caches/transforms-4/cc6ba356cc7e402a6f46bd180f3780ad/transformed/core-1.13.0/res
-com.alek.peacebooster.app-jetified-play-services-basement-18.4.0-32 /Users/iosdev/.gradle/caches/transforms-4/d25b69cef214d6d49f10a1da63322ec1/transformed/jetified-play-services-basement-18.4.0/res
-com.alek.peacebooster.app-lifecycle-viewmodel-2.6.2-33 /Users/iosdev/.gradle/caches/transforms-4/db5bbcae55093cc4e50045f015b41dbd/transformed/lifecycle-viewmodel-2.6.2/res
-com.alek.peacebooster.app-fragment-1.5.4-34 /Users/iosdev/.gradle/caches/transforms-4/e7d9c700deaf1e25b525b3198d9afe97/transformed/fragment-1.5.4/res
-com.alek.peacebooster.app-jetified-firebase-messaging-24.0.1-35 /Users/iosdev/.gradle/caches/transforms-4/ecc471e82603aaec2a21ec0182df5bb0/transformed/jetified-firebase-messaging-24.0.1/res
-com.alek.peacebooster.app-jetified-appcompat-resources-1.7.0-36 /Users/iosdev/.gradle/caches/transforms-4/f67614ca15e8036adbe7738bda9c6c2a/transformed/jetified-appcompat-resources-1.7.0/res
-com.alek.peacebooster.app-jetified-annotation-experimental-1.4.0-37 /Users/iosdev/.gradle/caches/transforms-4/fac604f2e673772f22e64bb337cc3cba/transformed/jetified-annotation-experimental-1.4.0/res
-com.alek.peacebooster.app-res-38 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/injectCrashlyticsMappingFileIdRelease
-com.alek.peacebooster.app-pngs-39 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/pngs/release
-com.alek.peacebooster.app-res-40 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/processReleaseGoogleServices
-com.alek.peacebooster.app-resValues-41 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/generated/res/resValues/release
-com.alek.peacebooster.app-packageReleaseResources-42 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
-com.alek.peacebooster.app-packageReleaseResources-43 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
-com.alek.peacebooster.app-release-44 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/build/intermediates/merged_res/release/mergeReleaseResources
-com.alek.peacebooster.app-main-45 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/main/res
-com.alek.peacebooster.app-release-46 /Users/iosdev/Documents/peace-booster_android_July16_24 /app/src/release/res
+com.alek.peacebooster.app-jetified-lifecycle-process-2.6.2-0 /Users/iosdev/.gradle/caches/transforms-4/075177e7f811a1c362b28628d9bf4a56/transformed/jetified-lifecycle-process-2.6.2/res
+com.alek.peacebooster.app-jetified-ads-adservices-1.0.0-beta05-1 /Users/iosdev/.gradle/caches/transforms-4/17514f35b920f5803191b7d9c1993d25/transformed/jetified-ads-adservices-1.0.0-beta05/res
+com.alek.peacebooster.app-coordinatorlayout-1.1.0-2 /Users/iosdev/.gradle/caches/transforms-4/1a092eebe0f9d01274a8f6e9a7858d94/transformed/coordinatorlayout-1.1.0/res
+com.alek.peacebooster.app-jetified-profileinstaller-1.3.1-3 /Users/iosdev/.gradle/caches/transforms-4/378f4ddc69d80c2df5adc3b23ad2fe68/transformed/jetified-profileinstaller-1.3.1/res
+com.alek.peacebooster.app-fragment-1.5.4-4 /Users/iosdev/.gradle/caches/transforms-4/3c75ab291dec1ad98a0440c24aa52259/transformed/fragment-1.5.4/res
+com.alek.peacebooster.app-jetified-activity-1.8.0-5 /Users/iosdev/.gradle/caches/transforms-4/43394c176b547633e5b12f907c287e9b/transformed/jetified-activity-1.8.0/res
+com.alek.peacebooster.app-jetified-savedstate-1.2.1-6 /Users/iosdev/.gradle/caches/transforms-4/45e37f328a84328597856ed3deb56899/transformed/jetified-savedstate-1.2.1/res
+com.alek.peacebooster.app-drawerlayout-1.1.1-7 /Users/iosdev/.gradle/caches/transforms-4/49cf6c932c309f80f4f78b2dfc1628bc/transformed/drawerlayout-1.1.1/res
+com.alek.peacebooster.app-jetified-glide-4.16.0-8 /Users/iosdev/.gradle/caches/transforms-4/49d1dbbbc3e5518bb2e391ad89f3038f/transformed/jetified-glide-4.16.0/res
+com.alek.peacebooster.app-cardview-1.0.0-9 /Users/iosdev/.gradle/caches/transforms-4/4d1d49b6defb897b1336897e569cca10/transformed/cardview-1.0.0/res
+com.alek.peacebooster.app-material-1.12.0-10 /Users/iosdev/.gradle/caches/transforms-4/5548ba0ef0fa181e3fdb5e677b081c83/transformed/material-1.12.0/res
+com.alek.peacebooster.app-jetified-firebase-messaging-24.0.1-11 /Users/iosdev/.gradle/caches/transforms-4/55d22194d21d5be3f3090181203ed23e/transformed/jetified-firebase-messaging-24.0.1/res
+com.alek.peacebooster.app-appcompat-1.7.0-12 /Users/iosdev/.gradle/caches/transforms-4/5b26293e1b2b9bf57decdfc0e26beb95/transformed/appcompat-1.7.0/res
+com.alek.peacebooster.app-jetified-core-ktx-1.13.0-13 /Users/iosdev/.gradle/caches/transforms-4/6e6f03e92f4203df460052687abd1484/transformed/jetified-core-ktx-1.13.0/res
+com.alek.peacebooster.app-jetified-firebase-crashlytics-19.0.3-14 /Users/iosdev/.gradle/caches/transforms-4/82cc8bd07bad8c6b93017faf146e2183/transformed/jetified-firebase-crashlytics-19.0.3/res
+com.alek.peacebooster.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-15 /Users/iosdev/.gradle/caches/transforms-4/8cd43301121a47c67206496b9da736f4/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
+com.alek.peacebooster.app-jetified-play-services-basement-18.4.0-16 /Users/iosdev/.gradle/caches/transforms-4/95e0ee7449e499ace852f2b167267175/transformed/jetified-play-services-basement-18.4.0/res
+com.alek.peacebooster.app-core-1.13.0-17 /Users/iosdev/.gradle/caches/transforms-4/96389abd0d9dca4d4037f0716493ee6c/transformed/core-1.13.0/res
+com.alek.peacebooster.app-jetified-play-services-base-18.0.1-18 /Users/iosdev/.gradle/caches/transforms-4/9c5380d36b6e70e8a76d8eeba1413eb0/transformed/jetified-play-services-base-18.0.1/res
+com.alek.peacebooster.app-jetified-firebase-common-21.0.0-19 /Users/iosdev/.gradle/caches/transforms-4/9e09c24b4db1132706f25fa66275a623/transformed/jetified-firebase-common-21.0.0/res
+com.alek.peacebooster.app-recyclerview-1.1.0-20 /Users/iosdev/.gradle/caches/transforms-4/a1f9315803409635d1bcbf994a799f4e/transformed/recyclerview-1.1.0/res
+com.alek.peacebooster.app-jetified-viewpager2-1.0.0-21 /Users/iosdev/.gradle/caches/transforms-4/a3193a14927fc72c108b9b1cdea490f8/transformed/jetified-viewpager2-1.0.0/res
+com.alek.peacebooster.app-jetified-datastore-1.0.0-22 /Users/iosdev/.gradle/caches/transforms-4/be31cc7f6765ba8bc161d1a2f84cb993/transformed/jetified-datastore-1.0.0/res
+com.alek.peacebooster.app-jetified-appcompat-resources-1.7.0-23 /Users/iosdev/.gradle/caches/transforms-4/c035a5bd2db74d4bf9bb0c4768fcca69/transformed/jetified-appcompat-resources-1.7.0/res
+com.alek.peacebooster.app-lifecycle-livedata-2.6.2-24 /Users/iosdev/.gradle/caches/transforms-4/c3498b5d8323ba8adfa34b731e4a40fc/transformed/lifecycle-livedata-2.6.2/res
+com.alek.peacebooster.app-constraintlayout-2.1.4-25 /Users/iosdev/.gradle/caches/transforms-4/c450de73bd11b588cdb3275ff95d6c20/transformed/constraintlayout-2.1.4/res
+com.alek.peacebooster.app-lifecycle-livedata-core-2.6.2-26 /Users/iosdev/.gradle/caches/transforms-4/c7d394f22e4b3c1bf03012d076a14167/transformed/lifecycle-livedata-core-2.6.2/res
+com.alek.peacebooster.app-lifecycle-viewmodel-2.6.2-27 /Users/iosdev/.gradle/caches/transforms-4/ca66d3ece9fd294815c1056811f49134/transformed/lifecycle-viewmodel-2.6.2/res
+com.alek.peacebooster.app-jetified-datastore-preferences-1.0.0-28 /Users/iosdev/.gradle/caches/transforms-4/ce0b7bc5216a42fa14ba505d2c75547e/transformed/jetified-datastore-preferences-1.0.0/res
+com.alek.peacebooster.app-transition-1.5.0-29 /Users/iosdev/.gradle/caches/transforms-4/d134956f015bd8bf58485415770f7a23/transformed/transition-1.5.0/res
+com.alek.peacebooster.app-lifecycle-runtime-2.6.2-30 /Users/iosdev/.gradle/caches/transforms-4/d235b01d5f26372e42c5ea8e1039b0d4/transformed/lifecycle-runtime-2.6.2/res
+com.alek.peacebooster.app-jetified-play-services-measurement-api-22.1.0-31 /Users/iosdev/.gradle/caches/transforms-4/d32a00521e27e2ca4db080f0ac20ded3/transformed/jetified-play-services-measurement-api-22.1.0/res
+com.alek.peacebooster.app-jetified-annotation-experimental-1.4.0-32 /Users/iosdev/.gradle/caches/transforms-4/da8938641ab603348444409b12cd939c/transformed/jetified-annotation-experimental-1.4.0/res
+com.alek.peacebooster.app-jetified-ads-adservices-java-1.0.0-beta05-33 /Users/iosdev/.gradle/caches/transforms-4/dc016865bd83ee83f58f1a2256ba4583/transformed/jetified-ads-adservices-java-1.0.0-beta05/res
+com.alek.peacebooster.app-jetified-startup-runtime-1.1.1-34 /Users/iosdev/.gradle/caches/transforms-4/df7ab0987f2690fa06dac0f87e23abc0/transformed/jetified-startup-runtime-1.1.1/res
+com.alek.peacebooster.app-core-runtime-2.2.0-35 /Users/iosdev/.gradle/caches/transforms-4/e2bf60602135aeadedaad447a5d17f70/transformed/core-runtime-2.2.0/res
+com.alek.peacebooster.app-jetified-emoji2-views-helper-1.3.0-36 /Users/iosdev/.gradle/caches/transforms-4/ecba7f9fd917db0b64b789034e9e9c14/transformed/jetified-emoji2-views-helper-1.3.0/res
+com.alek.peacebooster.app-jetified-emoji2-1.3.0-37 /Users/iosdev/.gradle/caches/transforms-4/ef32cf60d98e0cfe18c98d048c729da4/transformed/jetified-emoji2-1.3.0/res
+com.alek.peacebooster.app-res-38 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/generated/res/injectCrashlyticsMappingFileIdRelease
+com.alek.peacebooster.app-pngs-39 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/generated/res/pngs/release
+com.alek.peacebooster.app-res-40 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/generated/res/processReleaseGoogleServices
+com.alek.peacebooster.app-resValues-41 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/generated/res/resValues/release
+com.alek.peacebooster.app-packageReleaseResources-42 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.alek.peacebooster.app-packageReleaseResources-43 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.alek.peacebooster.app-release-44 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.alek.peacebooster.app-main-45 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/src/main/res
+com.alek.peacebooster.app-release-46 /Users/iosdev/Documents/1. Github Sources/PeaceBooster_Android/app/src/release/res

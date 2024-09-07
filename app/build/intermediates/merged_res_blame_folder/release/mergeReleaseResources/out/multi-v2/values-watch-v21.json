@@ -4,7 +4,7 @@
             "outputFile": "com.alek.peacebooster.app-mergeReleaseResources-42:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/Users/iosdev/.gradle/caches/transforms-4/4f5f208e288c1a1813987202da8e17dc/transformed/appcompat-1.7.0/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "/Users/iosdev/.gradle/caches/transforms-4/5b26293e1b2b9bf57decdfc0e26beb95/transformed/appcompat-1.7.0/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
